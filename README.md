@@ -1,5 +1,7 @@
 # CARE-2021
 
+- `pilots` folder contain post-processed data of all the pilots
+
 ## Saliency Maps
 
 - `saliency_maps.ipynb` contains code for generating  saliency maps
