@@ -1,6 +1,6 @@
 # CARE-2021
 
-- `pilots` folder contain post-processed data of all the pilots
+- `pilots` folder contain raw exported data from toloka for all our pilots 
 
 ## Saliency Maps
 
