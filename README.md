@@ -13,13 +13,13 @@
 
 ## Phase 2
 
-- `phase2_analysis` folder contains post-processed outcomes of phase 2 using CrowdTruth
-- `Phase2.ipynb` contains graph generation based upon the post-processed data
+- `phase2_results` folder contains post-processed outcomes of phase 2 using CrowdTruth
+- `phase2_analysis.ipynb` contains graph generation based upon the post-processed data
 
 ## Phase 3
 
--  `final` folder contains phase 3 checkbox outcomes (exported directly from toloka): 2 files for two completed pools
--  `Final Aggregation.ipynb` contains aggregation based on final results 
+-  `phase3_results` folder contains phase 3 checkbox outcomes (exported directly from toloka): 2 files for two completed pools
+-  `phase3_aggregation.ipynb` contains aggregation based on final results 
 
 
 ### Library dependencies
