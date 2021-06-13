@@ -1,0 +1,2 @@
+unit,unit_annotation_score
+000177792b--60b5e4b592b2ac7d670dc89c,"Counter({'head': 0.9999946216348058, 'tail': 0.20000627419644934, 'wings': 0.1999742042880262, 'chest': 1.7927348719026379e-06, 'leg': 4.105476895405606e-17, 'neck': 7.3839979141885125e-25, 'beak': 4.435043664385322e-25, 'others': 2.9489541157159556e-25, 'back': 0.0, 'eye': 0.0, 'wing': 0.0, 'torso': 0.0, 'pupil': 0.0, 'throat': 0.0, 'flanks': 0.0, 'primaries': 0.0, 'not head': 0.0, 'nape': 0.0, 'ear coverts': 0.0, 'belly': 0.0, 'skull': 0.0, 'body': 0.0, '1': 0.0})"
