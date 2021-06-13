@@ -2,14 +2,23 @@
 
 ## Saliency Maps
 
-- Code for generating  saliency maps is present in `saliency_maps.ipynb` notebook.
-- There is a pretrained model in the repo `stage-3-fine-tuned-res50.pkl`. It is being loaded in notebook, use it for inference tasks or CAM generation
-- Final results are stored in `final` folder (exported directly from toloka)
-  -  Aggregation based on final results are performed in `Final Aggregation.ipynb`
+- `saliency_maps.ipynb` contains code for generating  saliency maps
+- `stage-3-fine-tuned-res50.pkl` is the pretrained model. It is loaded in `saliency_maps.ipynb` notebook, use it for inference tasks or CAM generation
 
 ## Quality Control
 
-qc.py includes functions for running majority voting (fixed_annotations, free_text fubcs) and crowdtruth metrics (helper func) on Toloka labeling output. Due to high variability in json outputs (free text vs fine grained vs coarse grained) different annotation extraction parts are commented out within these functions.
+- `qc.py` includes functions for running majority voting (fixed_annotations, free_text fubcs) and crowdtruth metrics (helper func) on Toloka labeling output. Due to high variability in json outputs (free text vs fine grained vs coarse grained) different annotation extraction parts are commented out within these functions.
+
+## Phase 2
+
+- `phase2_analysis` folder contains post-processed outcomes of phase 2 using CrowdTruth
+- `Phase2.ipynb` contains graph generation based upon the post-processed data
+
+## Phase 3
+
+-  `final` folder contains phase 3 checkbox outcomes (exported directly from toloka): 2 files for two completed pools
+-  `Final Aggregation.ipynb` contains aggregation based on final results 
+
 
 ### Library dependencies
 - pytorch
