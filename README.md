@@ -4,8 +4,8 @@
 
 - Code for generating  saliency maps is present in `saliency_maps.ipynb` notebook.
 - There is a pretrained model in the repo `stage-3-fine-tuned-res50.pkl`. It is being loaded in notebook, use it for inference tasks or CAM generation
-- Final results are stored in final folder (exported directly from toloka)
-  -  Aggregation based on final results are performed in Final Aggregation.ipynb
+- Final results are stored in `final` folder (exported directly from toloka)
+  -  Aggregation based on final results are performed in `Final Aggregation.ipynb`
 
 ## Quality Control
 
