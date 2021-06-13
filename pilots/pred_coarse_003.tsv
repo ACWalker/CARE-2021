@@ -1,0 +1,49 @@
+INPUT:image_left	INPUT:image_right	OUTPUT:others	OUTPUT:result	OUTPUT:feedback	GOLDEN:others	GOLDEN:result	GOLDEN:feedback	HINT:text	HINT:default_language	ASSIGNMENT:assignment_id	ASSIGNMENT:task_suite_id	ASSIGNMENT:worker_id	ASSIGNMENT:started	ASSIGNMENT:submitted	ACCEPT:verdict	ACCEPT:comment
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png		"{""Head"":true}"							000177792b--60b5e5b58233b3359ff28c0f	000177792b--60b5e4b592b2ac7d670dc89c	dfec8ddb692cc8e7c3fb6e047d70da03	2021-06-01T07:45:57.730	2021-06-01T07:46:23.210	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png		"{""Wings"":true}"							000177792b--60b5e5b58233b3359ff28c0f	000177792b--60b5e4b592b2ac7d670dc89c	dfec8ddb692cc8e7c3fb6e047d70da03	2021-06-01T07:45:57.730	2021-06-01T07:46:23.210	+	
+																
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png		"{""Head"":true}"							000177792b--60b5e5d8bd1df172d9040d09	000177792b--60b5e4b592b2ac7d670dc89c	6d9daf02995714a1a26c95b066d7d3a7	2021-06-01T07:46:32.033	2021-06-01T07:46:56.815	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png		"{""Neck"":true}"							000177792b--60b5e5d8bd1df172d9040d09	000177792b--60b5e4b592b2ac7d670dc89c	6d9daf02995714a1a26c95b066d7d3a7	2021-06-01T07:46:32.033	2021-06-01T07:46:56.815	+	
+																
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png		"{""Head"":true}"							000177792b--60b5e64e8233b3359ff295f2	000177792b--60b5e4b592b2ac7d670dc89c	e437fbd9ceb444360ad235ac9290a9e0	2021-06-01T07:48:30.684	2021-06-01T07:48:44.122	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png		"{""Leg"":true}"							000177792b--60b5e64e8233b3359ff295f2	000177792b--60b5e4b592b2ac7d670dc89c	e437fbd9ceb444360ad235ac9290a9e0	2021-06-01T07:48:30.684	2021-06-01T07:48:44.122	+	
+																
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png		"{""Beak"":true}"							000177792b--60b5e678c7c5c075f6e1765a	000177792b--60b5e4b592b2ac7d670dc89c	1875652740975c327dc2ed75a05b392a	2021-06-01T07:49:12.509	2021-06-01T07:49:30.013	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png		"{""Head"":true}"							000177792b--60b5e678c7c5c075f6e1765a	000177792b--60b5e4b592b2ac7d670dc89c	1875652740975c327dc2ed75a05b392a	2021-06-01T07:49:12.509	2021-06-01T07:49:30.013	+	
+																
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png		"{""Back"":true,""Head"":true}"							000177792b--60b5e67e40fe1833c0134f9c	000177792b--60b5e4b592b2ac7d670dc89c	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-01T07:49:18.669	2021-06-01T07:50:54.514	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png		"{""Head"":true,""Wings"":true}"							000177792b--60b5e67e40fe1833c0134f9c	000177792b--60b5e4b592b2ac7d670dc89c	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-01T07:49:18.669	2021-06-01T07:50:54.514	+	
+																
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png	Оти	"{""Head"":true}"	тттт						000177792b--60b5e92613652b59c5ccb9aa	000177792b--60b5e4b592b2ac7d670dc89c	7e380f1423b88ea58f571add21996d11	2021-06-01T08:00:38.444	2021-06-01T08:01:26.703	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png	Ттт	"{""Others"":true}"	ттт						000177792b--60b5e92613652b59c5ccb9aa	000177792b--60b5e4b592b2ac7d670dc89c	7e380f1423b88ea58f571add21996d11	2021-06-01T08:00:38.444	2021-06-01T08:01:26.703	+	
+																
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png		"{""Head"":true}"							000177792b--60b5e9cf49531841bebbbf7c	000177792b--60b5e4b592b2ac7d670dc89c	1ca930766f9a3f28dcbe40dfc4c2e756	2021-06-01T08:03:27.337	2021-06-01T08:04:41.214	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png		"{""Chest"":true}"							000177792b--60b5e9cf49531841bebbbf7c	000177792b--60b5e4b592b2ac7d670dc89c	1ca930766f9a3f28dcbe40dfc4c2e756	2021-06-01T08:03:27.337	2021-06-01T08:04:41.214	+	
+																
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png		"{""Head"":true}"							000177792b--60b5eb9f94779f1f4d0a3d2c	000177792b--60b5e4b592b2ac7d670dc89c	533f8c694dd4fa41a1a2c461913c9910	2021-06-01T08:11:11.458	2021-06-01T08:12:04.901	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png		"{""Wings"":true}"							000177792b--60b5eb9f94779f1f4d0a3d2c	000177792b--60b5e4b592b2ac7d670dc89c	533f8c694dd4fa41a1a2c461913c9910	2021-06-01T08:11:11.458	2021-06-01T08:12:04.901	+	
+																
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png		"{""Head"":true,""Neck"":true}"							000177792b--60b5f24c9a1c715f1c92588f	000177792b--60b5e4b592b2ac7d670dc89c	330cfc78045bb709204391403be3f0b0	2021-06-01T08:39:40.513	2021-06-01T08:40:56.288	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png		"{""Wings"":true,""Chest"":true}"							000177792b--60b5f24c9a1c715f1c92588f	000177792b--60b5e4b592b2ac7d670dc89c	330cfc78045bb709204391403be3f0b0	2021-06-01T08:39:40.513	2021-06-01T08:40:56.288	+	
+																
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png	Алиплппл	"{""Beak"":true,""Head"":true,""Neck"":true}"	Плилрплр						000177792b--60b5f2d093c6764cd9415a6e	000177792b--60b5e4b592b2ac7d670dc89c	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-01T08:41:52.976	2021-06-01T08:42:49.010	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png	Соплрр	"{""Beak"":true,""Neck"":true,""Leg"":true}"	Аоаомар						000177792b--60b5f2d093c6764cd9415a6e	000177792b--60b5e4b592b2ac7d670dc89c	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-01T08:41:52.976	2021-06-01T08:42:49.010	+	
+																
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png		"{""Head"":true}"							000177792b--60b5f3d57628af14aad58902	000177792b--60b5e4b592b2ac7d670dc89c	acc78d5fb3575c0e4436abdd4ad25f54	2021-06-01T08:46:13.088	2021-06-01T08:46:39.450	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png		"{""Chest"":true,""Leg"":true}"							000177792b--60b5f3d57628af14aad58902	000177792b--60b5e4b592b2ac7d670dc89c	acc78d5fb3575c0e4436abdd4ad25f54	2021-06-01T08:46:13.088	2021-06-01T08:46:39.450	+	
+																
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png		"{""Beak"":true}"							000177792b--60b5f449bb75427ffe1ef01d	000177792b--60b5e4b592b2ac7d670dc89c	b0d06402acbfe526e7d617acefa63689	2021-06-01T08:48:09.335	2021-06-01T08:48:33.252	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png		"{""Head"":true}"							000177792b--60b5f449bb75427ffe1ef01d	000177792b--60b5e4b592b2ac7d670dc89c	b0d06402acbfe526e7d617acefa63689	2021-06-01T08:48:09.335	2021-06-01T08:48:33.252	+	
+																
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png		"{""Neck"":true,""Head"":true}"							000177792b--60b5f66f93c6764cd941a5f3	000177792b--60b5e4b592b2ac7d670dc89c	8f629058a7238f0edfb4db983344c229	2021-06-01T08:57:19.725	2021-06-01T08:58:08.390	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png		"{""Head"":true,""Tail"":true}"							000177792b--60b5f66f93c6764cd941a5f3	000177792b--60b5e4b592b2ac7d670dc89c	8f629058a7238f0edfb4db983344c229	2021-06-01T08:57:19.725	2021-06-01T08:58:08.390	+	
+																
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png	focus	"{""Head"":true}"	focus						000177792b--60b5fa55a011b8712bf748a4	000177792b--60b5e4b592b2ac7d670dc89c	0fa81c631c7ddf6866d0e74b445def47	2021-06-01T09:13:57.367	2021-06-01T09:14:33.296	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png	focus	"{""Leg"":true}"	focus						000177792b--60b5fa55a011b8712bf748a4	000177792b--60b5e4b592b2ac7d670dc89c	0fa81c631c7ddf6866d0e74b445def47	2021-06-01T09:13:57.367	2021-06-01T09:14:33.296	+	
+																
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png		"{""Neck"":true}"							000177792b--60b5fefc069f3522f752cafc	000177792b--60b5e4b592b2ac7d670dc89c	ce6a3f63c047b5cbf00de6d77a2d0660	2021-06-01T09:33:48.001	2021-06-01T09:34:12.758	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png		"{""Head"":true}"							000177792b--60b5fefc069f3522f752cafc	000177792b--60b5e4b592b2ac7d670dc89c	ce6a3f63c047b5cbf00de6d77a2d0660	2021-06-01T09:33:48.001	2021-06-01T09:34:12.758	+	
+																
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png		"{""Head"":true}"							000177792b--60b61058026a8516ce6a98e8	000177792b--60b5e4b592b2ac7d670dc89c	9a41a11a1e1fa0820434a5407b408b8e	2021-06-01T10:47:52.401	2021-06-01T10:48:58.889	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png		"{""Tail"":true}"							000177792b--60b61058026a8516ce6a98e8	000177792b--60b5e4b592b2ac7d670dc89c	9a41a11a1e1fa0820434a5407b408b8e	2021-06-01T10:47:52.401	2021-06-01T10:48:58.889	+	
+																

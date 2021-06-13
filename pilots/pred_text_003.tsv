@@ -1,0 +1,22 @@
+INPUT:image_left	INPUT:image_right	OUTPUT:result	OUTPUT:feedback	GOLDEN:result	GOLDEN:feedback	HINT:text	HINT:default_language	ASSIGNMENT:assignment_id	ASSIGNMENT:task_suite_id	ASSIGNMENT:worker_id	ASSIGNMENT:started	ASSIGNMENT:submitted	ACCEPT:verdict	ACCEPT:comment
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png	"""клюв\, глаз\, голова"",""клюв\, глаз\, голова"""						000178256e--60b7cab77fdda405488b7cc4	000178256e--60b7c8f08ecae027d859c8f9	8f629058a7238f0edfb4db983344c229	2021-06-02T18:15:19.993	2021-06-02T18:18:12.576	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png	"""крыло\, голова\, туловище"""						000178256e--60b7cab77fdda405488b7cc4	000178256e--60b7c8f08ecae027d859c8f9	8f629058a7238f0edfb4db983344c229	2021-06-02T18:15:19.993	2021-06-02T18:18:12.576	+	
+														
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png	"""Pupil\,Throat"""						000178256e--60b7cd7b9ae6b72010c37c27	000178256e--60b7c8f08ecae027d859c8f9	0c96cfab601296e33758f8626d842769	2021-06-02T18:27:07.803	2021-06-02T18:29:47.055	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png	""" Flanks\,Primaries"""						000178256e--60b7cd7b9ae6b72010c37c27	000178256e--60b7c8f08ecae027d859c8f9	0c96cfab601296e33758f8626d842769	2021-06-02T18:27:07.803	2021-06-02T18:29:47.055	+	
+														
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png	"""head"""	head					000178256e--60b7d03a5637657313d3f0ba	000178256e--60b7c8f08ecae027d859c8f9	24183df68dd77b6b65056590753ed634	2021-06-02T18:38:50.481	2021-06-02T18:40:42.506	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png	"""not head"""						000178256e--60b7d03a5637657313d3f0ba	000178256e--60b7c8f08ecae027d859c8f9	24183df68dd77b6b65056590753ed634	2021-06-02T18:38:50.481	2021-06-02T18:40:42.506	+	
+														
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png	"""throat"",""nape"",""ear coverts"""						000178256e--60b7d04a7dd284794f0a8ff8	000178256e--60b7c8f08ecae027d859c8f9	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-02T18:39:06.982	2021-06-02T18:42:45.148	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png	"""belly"",""wing"",""chest"""						000178256e--60b7d04a7dd284794f0a8ff8	000178256e--60b7c8f08ecae027d859c8f9	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-02T18:39:06.982	2021-06-02T18:42:45.148	+	
+														
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png	"""череп"""						000178256e--60b87e0b6d0a3d42d0a6297f	000178256e--60b7c8f08ecae027d859c8f9	651823d86c95572ca3c23001c44f90ea	2021-06-03T07:00:27.437	2021-06-03T07:03:18.060	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png	"""крыло"""						000178256e--60b87e0b6d0a3d42d0a6297f	000178256e--60b7c8f08ecae027d859c8f9	651823d86c95572ca3c23001c44f90ea	2021-06-03T07:00:27.437	2021-06-03T07:03:18.060	+	
+														
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png	"""eye"",""head"""						000178256e--60c1fc61a84814092a682085	000178256e--60b7c8f08ecae027d859c8f9	fe1e879856d5401850b47132821d4b64	2021-06-10T11:49:53.267	2021-06-10T11:50:55.797	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png	"""body"",""wings"""						000178256e--60c1fc61a84814092a682085	000178256e--60b7c8f08ecae027d859c8f9	fe1e879856d5401850b47132821d4b64	2021-06-10T11:49:53.267	2021-06-10T11:50:55.797	+	
+														
+/pilot/original_harlequin_duck_male_batch_3_15.png	/pilot/harlequin_duck_male_batch_3_15.png	"""1"""						000178256e--60c2145f725d087cde13d5e8	000178256e--60b7c8f08ecae027d859c8f9	24dcc4a99624ffd9147b17fe7431627e	2021-06-10T13:32:15.135	2021-06-10T13:37:28.660	+	
+/pilot/original_gila_woodpecker_batch_0_2.png	/pilot/gila_woodpecker_batch_0_2.png	"""1"""						000178256e--60c2145f725d087cde13d5e8	000178256e--60b7c8f08ecae027d859c8f9	24dcc4a99624ffd9147b17fe7431627e	2021-06-10T13:32:15.135	2021-06-10T13:37:28.660	+	
+														

@@ -1,0 +1,614 @@
+INPUT:image_left	INPUT:image_right	OUTPUT:others	OUTPUT:result	GOLDEN:others	GOLDEN:result	HINT:text	HINT:default_language	ASSIGNMENT:assignment_id	ASSIGNMENT:task_suite_id	ASSIGNMENT:worker_id	ASSIGNMENT:started	ASSIGNMENT:submitted
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Beak"":true,""Tertials"":true,""Lesser Coverts"":true,""Vent"":true,""Feet"":true,""Tibio-tarsal articulation"":true,""Belly"":true,""Throat"":true}"					000179ae16--60bccdcff220db21bc1d100e	000179ae16--60bc7eebfe5d13225934e7f4	291364989e32aaa7571603700136c80d	2021-06-06T13:29:51.666	2021-06-06T13:30:08.035
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Coverts"":true,""Thigh"":true,""Tibia"":true,""Throat"":true,""Rump"":true,""Pupil"":true,""Mantle"":true,""Vent"":true,""Flanks"":true}"					000179ae16--60bccde14f73891cd400e6e9	000179ae16--60bc7eebfe5d13225934e7fd	291364989e32aaa7571603700136c80d	2021-06-06T13:30:09.137	2021-06-06T13:30:27.340
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Lesser Coverts"":true,""Scapulars"":true,""Thigh"":true,""Feet"":true,""Breast"":true,""Wattle"":true,""Belly"":true,""Tertials"":true,""Primaries"":true,""Iris"":true,""Mantle"":true}"					000179ae16--60bccdf590429542be402234	000179ae16--60bc7eebfe5d13225934e7fa	291364989e32aaa7571603700136c80d	2021-06-06T13:30:29.203	2021-06-06T13:30:37.718
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Tertials"":true,""Head"":true,""Coverts"":true,""Scapulars"":true,""Iris"":true,""Pupil"":true,""Mantle"":true,""Feet"":true,""Flanks"":true,""Thigh"":true}"					000179ae16--60bcce0bf440ea68588ec123	000179ae16--60bc7eebfe5d13225934e801	291364989e32aaa7571603700136c80d	2021-06-06T13:30:51.881	2021-06-06T13:31:02.373
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Tertials"":true,""Belly"":true,""Tibio-tarsal articulation"":true,""Rump"":true,""Tibia"":true,""Mantle"":true,""Iris"":true,""Throat"":true,""Wattle"":true}"					000179ae16--60bcce17c2e3f602529b518a	000179ae16--60bc7eebfe5d13225934e7fb	291364989e32aaa7571603700136c80d	2021-06-06T13:31:03.341	2021-06-06T13:31:14.449
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Pupil"":true,""Tertials"":true,""Thigh"":true,""Flanks"":true,""Tibia"":true,""Tarsus"":true,""Tibio-tarsal articulation"":true,""Rump"":true,""Lesser Coverts"":true,""Head"":true}"					000179ae16--60bcce230d84521c742be03f	000179ae16--60bc7eebfe5d13225934e7f9	291364989e32aaa7571603700136c80d	2021-06-06T13:31:15.591	2021-06-06T13:31:23.571
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Coverts"":true,""Thigh"":true,""Tertials"":true,""Vent"":true,""Flanks"":true,""Belly"":true,""Tibia"":true,""Mantle"":true,""Iris"":true,""Head"":true,""Beak"":true}"					000179ae16--60bcce2c8a92a13359c803f3	000179ae16--60bc7eebfe5d13225934e7fc	291364989e32aaa7571603700136c80d	2021-06-06T13:31:24.454	2021-06-06T13:31:33.024
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Scapulars"":true,""Head"":true,""Tarsus"":true,""Belly"":true,""Wattle"":true,""Feet"":true,""Rump"":true,""Vent"":true}"					000179ae16--60bcce351e56290330229574	000179ae16--60bc7eebfe5d13225934e7fe	291364989e32aaa7571603700136c80d	2021-06-06T13:31:33.775	2021-06-06T13:31:45.187
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Mantle"":true,""Tarsus"":true,""Primaries"":true,""Thigh"":true,""Scapulars"":true,""Rump"":true,""Iris"":true,""Head"":true,""Belly"":true,""Wattle"":true,""Breast"":true,""Throat"":true}"					000179ae16--60bcce418a92a13359c804c2	000179ae16--60bc7eebfe5d13225934e800	291364989e32aaa7571603700136c80d	2021-06-06T13:31:45.897	2021-06-06T13:31:54.477
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Tertials"":true,""Scapulars"":true,""Mantle"":true,""Iris"":true,""Beak"":true,""Belly"":true,""Flanks"":true,""Throat"":true,""Thigh"":true,""Feet"":true,""Tarsus"":true}"					000179ae16--60bcce4b78248827a6fee2d5	000179ae16--60bc7eebfe5d13225934e7f5	291364989e32aaa7571603700136c80d	2021-06-06T13:31:55.582	2021-06-06T13:32:03.884
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Lesser Coverts"":true,""Mantle"":true,""Primaries"":true,""Thigh"":true,""Feet"":true,""Throat"":true,""Breast"":true,""Belly"":true,""Head"":true,""Beak"":true,""Tertials"":true}"					000179ae16--60bcce5599211a6cb3a08dd7	000179ae16--60bc7eebfe5d13225934e7f7	291364989e32aaa7571603700136c80d	2021-06-06T13:32:05.396	2021-06-06T13:32:13.556
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Lesser Coverts"":true,""Thigh"":true,""Belly"":true,""Rump"":true,""Tibia"":true,""Feet"":true,""Tarsus"":true,""Wattle"":true,""Throat"":true,""Coverts"":true,""Iris"":true,""Beak"":true}"					000179ae16--60bcce5ef440ea68588ec4d9	000179ae16--60bc7eebfe5d13225934e7f6	291364989e32aaa7571603700136c80d	2021-06-06T13:32:14.885	2021-06-06T13:32:24.791
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Rump"":true,""Flanks"":true,""Feet"":true,""Tarsus"":true,""Tibio-tarsal articulation"":true,""Pupil"":true,""Beak"":true,""Scapulars"":true,""Tertials"":true,""Wattle"":true,""Breast"":true,""Throat"":true}"					000179ae16--60bcce6ac317463775e2a71e	000179ae16--60bc7eebfe5d13225934e7ff	291364989e32aaa7571603700136c80d	2021-06-06T13:32:26.588	2021-06-06T13:32:36.831
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Mantle"":true}"					000179ae16--60bce1047afbc056f693effc	000179ae16--60bc7eebfe5d13225934e7f9	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:51:48.514	2021-06-06T14:52:15.608
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Pupil"":true}"					000179ae16--60bce12183d01a0997cad6b5	000179ae16--60bc7eebfe5d13225934e7fd	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:52:17.595	2021-06-06T14:52:35.757
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Lesser Coverts"":true}"					000179ae16--60bce1362cf798441d1900d4	000179ae16--60bc7eebfe5d13225934e7f8	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:52:38.725	2021-06-06T14:52:49.492
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Head"":true}"					000179ae16--60bce15a319fec5a35fa4eae	000179ae16--60bc7eebfe5d13225934e7ff	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:53:14.849	2021-06-06T14:53:23.844
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Scapulars"":true}"					000179ae16--60bce1643c6ca8596db555f7	000179ae16--60bc7eebfe5d13225934e7fc	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:53:24.963	2021-06-06T14:53:32.791
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Beak"":true}"					000179ae16--60bce16e319fec5a35fa4fbb	000179ae16--60bc7eebfe5d13225934e7fe	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:53:34.506	2021-06-06T14:53:44.477
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Head"":true}"					000179ae16--60bce1797c5cbc71410cfe60	000179ae16--60bc7eebfe5d13225934e801	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:53:45.561	2021-06-06T14:53:55.549
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Vent"":true}"					000179ae16--60bce1852cf798441d190541	000179ae16--60bc7eebfe5d13225934e802	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:53:57.451	2021-06-06T14:54:08.223
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Lesser Coverts"":true}"					000179ae16--60bce19290429542be413228	000179ae16--60bc7eebfe5d13225934e7f5	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:54:10.313	2021-06-06T14:54:16.845
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Pupil"":true}"					000179ae16--60bce1994dc48f273e3b7da2	000179ae16--60bc7eebfe5d13225934e7f4	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:54:17.635	2021-06-06T14:54:27.299
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Lesser Coverts"":true}"					000179ae16--60bce1a5a2e4442f8538f1ce	000179ae16--60bc7eebfe5d13225934e7fb	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:54:29.731	2021-06-06T14:54:39.820
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Tibio-tarsal articulation"":true}"					000179ae16--60bce1b2c2e3f602529c5ff2	000179ae16--60bc7eebfe5d13225934e800	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:54:42.107	2021-06-06T14:54:49.892
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Coverts"":true}"					000179ae16--60bce1bb1e381301d7b03936	000179ae16--60bc7eebfe5d13225934e7f7	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:54:51.493	2021-06-06T14:54:58.975
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Mantle"":true}"					000179ae16--60bce1c4be2bd36caadab1d0	000179ae16--60bc7eebfe5d13225934e7f6	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:55:00.441	2021-06-06T14:55:07.480
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Scapulars"":true}"					000179ae16--60bce1ce90429542be413545	000179ae16--60bc7eebfe5d13225934e7fa	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:55:10.880	2021-06-06T14:55:22.967
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Beak"":true}"					000179ae16--60bcf5a1c317463775e4eac3	000179ae16--60bc7eebfe5d13225934e7f5	73f7cea75015d9faea369cd200af9b62	2021-06-06T16:19:45.448	2021-06-06T16:20:17.594
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Lesser Coverts"":true}"					000179ae16--60bcf5c31909760f1d89b3cb	000179ae16--60bc7eebfe5d13225934e7fd	73f7cea75015d9faea369cd200af9b62	2021-06-06T16:20:19.019	2021-06-06T16:20:33.134
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Flanks"":true}"					000179ae16--60bcf5d20b590b3e2fa39442	000179ae16--60bc7eebfe5d13225934e7fb	73f7cea75015d9faea369cd200af9b62	2021-06-06T16:20:34.486	2021-06-06T16:20:41.956
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Scapulars"":true}"					000179ae16--60bcf5db319fec5a35fb59f6	000179ae16--60bc7eebfe5d13225934e7f4	73f7cea75015d9faea369cd200af9b62	2021-06-06T16:20:43.216	2021-06-06T16:20:52.229
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Pupil"":true}"					000179ae16--60bcf5e50d84521c742e13ed	000179ae16--60bc7eebfe5d13225934e7f9	73f7cea75015d9faea369cd200af9b62	2021-06-06T16:20:53.910	2021-06-06T16:21:01.306
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Eyestripe"":true}"					000179ae16--60bcf5ee56e0ec582ad2fb4c	000179ae16--60bc7eebfe5d13225934e7fc	73f7cea75015d9faea369cd200af9b62	2021-06-06T16:21:02.764	2021-06-06T16:21:16.846
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Lesser Coverts"":true}"					000179ae16--60bd20770d84521c743062ac	000179ae16--60bc7eebfe5d13225934e802	3ec35749038f612101321e06c7e770d0	2021-06-06T19:22:31.726	2021-06-06T19:22:38.143
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Mantle"":true}"					000179ae16--60bd207f5bc69d7846340a74	000179ae16--60bc7eebfe5d13225934e7f5	3ec35749038f612101321e06c7e770d0	2021-06-06T19:22:39.205	2021-06-06T19:22:42.809
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Scapulars"":true}"					000179ae16--60bd20837c5cbc71410f9b78	000179ae16--60bc7eebfe5d13225934e7fa	3ec35749038f612101321e06c7e770d0	2021-06-06T19:22:43.912	2021-06-06T19:22:45.996
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Lesser Coverts"":true}"					000179ae16--60bd209d62f2586508d1fcdf	000179ae16--60bc7eebfe5d13225934e7fd	3ec35749038f612101321e06c7e770d0	2021-06-06T19:23:09.164	2021-06-06T19:23:12.997
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Tertials"":true}"					000179ae16--60bd20a11e56290330264e21	000179ae16--60bc7eebfe5d13225934e7f9	3ec35749038f612101321e06c7e770d0	2021-06-06T19:23:13.892	2021-06-06T19:23:16.316
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Lesser Coverts"":true}"					000179ae16--60bd20a54dc48f273e3e0282	000179ae16--60bc7eebfe5d13225934e800	3ec35749038f612101321e06c7e770d0	2021-06-06T19:23:17.297	2021-06-06T19:23:19.360
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Coverts"":true}"					000179ae16--60bd20a8f440ea685892135c	000179ae16--60bc7eebfe5d13225934e7fc	3ec35749038f612101321e06c7e770d0	2021-06-06T19:23:20.645	2021-06-06T19:23:22.669
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Coverts"":true}"					000179ae16--60bd20abc2e3f602529f7934	000179ae16--60bc7eebfe5d13225934e7fe	3ec35749038f612101321e06c7e770d0	2021-06-06T19:23:23.503	2021-06-06T19:23:25.380
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Scapulars"":true}"					000179ae16--60bd20aec317463775e72c4a	000179ae16--60bc7eebfe5d13225934e801	3ec35749038f612101321e06c7e770d0	2021-06-06T19:23:26.901	2021-06-06T19:23:28.670
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Coverts"":true}"					000179ae16--60bd20b1cd58ba6b3e435426	000179ae16--60bc7eebfe5d13225934e7f4	3ec35749038f612101321e06c7e770d0	2021-06-06T19:23:29.867	2021-06-06T19:23:31.589
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Tertials"":true}"					000179ae16--60bd20b4f440ea6858921394	000179ae16--60bc7eebfe5d13225934e7fb	3ec35749038f612101321e06c7e770d0	2021-06-06T19:23:32.953	2021-06-06T19:23:34.403
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Scapulars"":true}"					000179ae16--60bd20b70baf93026ae35402	000179ae16--60bc7eebfe5d13225934e7f8	3ec35749038f612101321e06c7e770d0	2021-06-06T19:23:35.561	2021-06-06T19:23:37.185
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Coverts"":true}"					000179ae16--60bd20ba78248827a60311b5	000179ae16--60bc7eebfe5d13225934e7f7	3ec35749038f612101321e06c7e770d0	2021-06-06T19:23:38.536	2021-06-06T19:23:40.266
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Tertials"":true}"					000179ae16--60bd20beabe5724111ec128a	000179ae16--60bc7eebfe5d13225934e7f6	3ec35749038f612101321e06c7e770d0	2021-06-06T19:23:42.778	2021-06-06T19:23:44.829
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Scapulars"":true}"					000179ae16--60bd20c1f33865758e9bac3d	000179ae16--60bc7eebfe5d13225934e7ff	3ec35749038f612101321e06c7e770d0	2021-06-06T19:23:45.929	2021-06-06T19:23:47.812
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Head"":true}"					000179ae16--60bd4c0d62f2586508d31677	000179ae16--60bc7eebfe5d13225934e7fd	8471965cb3e85f6935bdec48ce4ca0c7	2021-06-06T22:28:29.012	2021-06-06T22:28:40.512
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Flanks"":true}"					000179ae16--60bd4c1ae5851e2a55dc16f8	000179ae16--60bc7eebfe5d13225934e7f6	8471965cb3e85f6935bdec48ce4ca0c7	2021-06-06T22:28:42.590	2021-06-06T22:28:48.625
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Mantle"":true}"					000179ae16--60bd4c22be2bd36caadf6e6d	000179ae16--60bc7eebfe5d13225934e7f4	8471965cb3e85f6935bdec48ce4ca0c7	2021-06-06T22:28:50.045	2021-06-06T22:29:09.197
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Tertials"":true}"					000179ae16--60bd4c367c5cbc714110b040	000179ae16--60bc7eebfe5d13225934e800	8471965cb3e85f6935bdec48ce4ca0c7	2021-06-06T22:29:10.499	2021-06-06T22:29:13.826
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Mantle"":true}"					000179ae16--60bd4c3be5851e2a55dc1781	000179ae16--60bc7eebfe5d13225934e7f9	8471965cb3e85f6935bdec48ce4ca0c7	2021-06-06T22:29:15.007	2021-06-06T22:29:17.780
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Tertials"":true}"					000179ae16--60bd4c3f4f73891cd405e17e	000179ae16--60bc7eebfe5d13225934e801	8471965cb3e85f6935bdec48ce4ca0c7	2021-06-06T22:29:19.683	2021-06-06T22:29:22.086
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Scapulars"":true}"					000179ae16--60bd4c447afbc056f6983d6e	000179ae16--60bc7eebfe5d13225934e7f5	8471965cb3e85f6935bdec48ce4ca0c7	2021-06-06T22:29:24.193	2021-06-06T22:29:26.792
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Beak"":true}"					000179ae16--60bd4c47f33865758e9d697c	000179ae16--60bc7eebfe5d13225934e7f8	8471965cb3e85f6935bdec48ce4ca0c7	2021-06-06T22:29:27.651	2021-06-06T22:29:31.636
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Coverts"":true}"					000179ae16--60bd4c4c4dc48f273e3f2ef0	000179ae16--60bc7eebfe5d13225934e802	8471965cb3e85f6935bdec48ce4ca0c7	2021-06-06T22:29:32.717	2021-06-06T22:29:34.993
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Lesser Coverts"":true}"					000179ae16--60bd4c512cf798441d1d79ba	000179ae16--60bc7eebfe5d13225934e7fe	8471965cb3e85f6935bdec48ce4ca0c7	2021-06-06T22:29:37.260	2021-06-06T22:29:39.844
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Tertials"":true}"					000179ae16--60bd4c545bc69d7846359ef0	000179ae16--60bc7eebfe5d13225934e7fc	8471965cb3e85f6935bdec48ce4ca0c7	2021-06-06T22:29:40.740	2021-06-06T22:29:44.087
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Pupil"":true}"					000179ae16--60bd4c597afbc056f6983d9c	000179ae16--60bc7eebfe5d13225934e7fb	8471965cb3e85f6935bdec48ce4ca0c7	2021-06-06T22:29:45.215	2021-06-06T22:29:47.405
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Tertials"":true}"					000179ae16--60bd4c5dcd58ba6b3e44a792	000179ae16--60bc7eebfe5d13225934e7f7	8471965cb3e85f6935bdec48ce4ca0c7	2021-06-06T22:29:49.301	2021-06-06T22:29:52.618
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Mantle"":true}"					000179ae16--60bd4c62c317463775e92d4a	000179ae16--60bc7eebfe5d13225934e7ff	8471965cb3e85f6935bdec48ce4ca0c7	2021-06-06T22:29:54.755	2021-06-06T22:29:57.324
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Rump"":true}"					000179ae16--60bd4c677afbc056f6983dac	000179ae16--60bc7eebfe5d13225934e7fa	8471965cb3e85f6935bdec48ce4ca0c7	2021-06-06T22:29:59.087	2021-06-06T22:30:01.654
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Iris"":true}"					000179ae16--60bd7655c2e3f60252a21377	000179ae16--60bc7eebfe5d13225934e7fd	bcba6c1b21ebd59bce50b045e5dcacc5	2021-06-07T01:28:53.502	2021-06-07T01:29:14.842
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Head"":true}"					000179ae16--60bd766b3c6ca8596dbb2036	000179ae16--60bc7eebfe5d13225934e7f9	bcba6c1b21ebd59bce50b045e5dcacc5	2021-06-07T01:29:15.536	2021-06-07T01:29:29.129
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Tibia"":true,""Vent"":true,""Rump"":true,""Coverts"":true}"					000179ae16--60bd767a99211a6cb3a83c2a	000179ae16--60bc7eebfe5d13225934e7f6	bcba6c1b21ebd59bce50b045e5dcacc5	2021-06-07T01:29:30.153	2021-06-07T01:30:45.866
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Head"":true,""Pupil"":true}"					000179ae16--60bd76c7cd58ba6b3e45902e	000179ae16--60bc7eebfe5d13225934e802	bcba6c1b21ebd59bce50b045e5dcacc5	2021-06-07T01:30:47.259	2021-06-07T01:31:01.181
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Scapulars"":true,""Coverts"":true}"					000179ae16--60bd76d67afbc056f6992cc6	000179ae16--60bc7eebfe5d13225934e7fc	bcba6c1b21ebd59bce50b045e5dcacc5	2021-06-07T01:31:02.124	2021-06-07T01:31:10.912
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Beak"":true,""Pupil"":true}"					000179ae16--60bd76e00b590b3e2fa8a666	000179ae16--60bc7eebfe5d13225934e800	bcba6c1b21ebd59bce50b045e5dcacc5	2021-06-07T01:31:12.190	2021-06-07T01:32:21.826
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png	Oopps	"{""Head"":true}"					000179ae16--60bd797cf220db21bc2512b3	000179ae16--60bc7eebfe5d13225934e7f5	43c7f10edc7d79ad0e9240eca38ba32e	2021-06-07T01:42:20.601	2021-06-07T01:43:39.179
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Coverts"":true}"					000179ae16--60bd79cc90429542be473597	000179ae16--60bc7eebfe5d13225934e7fe	43c7f10edc7d79ad0e9240eca38ba32e	2021-06-07T01:43:40.437	2021-06-07T01:44:02.233
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Rump"":true}"					000179ae16--60bd79e64dc48f273e3fefaf	000179ae16--60bc7eebfe5d13225934e7fb	43c7f10edc7d79ad0e9240eca38ba32e	2021-06-07T01:44:06.380	2021-06-07T01:44:21.187
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Thigh"":true}"					000179ae16--60bd79f790429542be4736b0	000179ae16--60bc7eebfe5d13225934e7f9	43c7f10edc7d79ad0e9240eca38ba32e	2021-06-07T01:44:23.457	2021-06-07T01:44:27.920
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Pupil"":true}"					000179ae16--60bd79fe4dc48f273e3ff044	000179ae16--60bc7eebfe5d13225934e7fd	43c7f10edc7d79ad0e9240eca38ba32e	2021-06-07T01:44:30.342	2021-06-07T01:44:34.496
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Breast"":true}"					000179ae16--60bd7a043c6ca8596dbb353c	000179ae16--60bc7eebfe5d13225934e7fc	43c7f10edc7d79ad0e9240eca38ba32e	2021-06-07T01:44:36.545	2021-06-07T01:44:41.547
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Wattle"":true}"					000179ae16--60bd7a0a56e0ec582ad7d4a2	000179ae16--60bc7eebfe5d13225934e801	43c7f10edc7d79ad0e9240eca38ba32e	2021-06-07T01:44:42.735	2021-06-07T01:44:46.813
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Tarsus"":true}"					000179ae16--60bd7a0f7c5cbc714111687b	000179ae16--60bc7eebfe5d13225934e800	43c7f10edc7d79ad0e9240eca38ba32e	2021-06-07T01:44:47.703	2021-06-07T01:44:51.492
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Primaries"":true,""Tibio-tarsal articulation"":true}"					000179ae16--60bd7a15be2bd36caae0402b	000179ae16--60bc7eebfe5d13225934e7ff	43c7f10edc7d79ad0e9240eca38ba32e	2021-06-07T01:44:53.656	2021-06-07T01:45:03.919
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Vent"":true}"					000179ae16--60bd7a215bc69d7846366272	000179ae16--60bc7eebfe5d13225934e7f4	43c7f10edc7d79ad0e9240eca38ba32e	2021-06-07T01:45:05.362	2021-06-07T01:45:09.269
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Tibio-tarsal articulation"":true}"					000179ae16--60bd7a3ddf8878157e7e56ef	000179ae16--60bc7eebfe5d13225934e7f7	43c7f10edc7d79ad0e9240eca38ba32e	2021-06-07T01:45:33.641	2021-06-07T01:45:42.593
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Breast"":true}"					000179ae16--60bd7a4862f2586508d3d05e	000179ae16--60bc7eebfe5d13225934e7f6	43c7f10edc7d79ad0e9240eca38ba32e	2021-06-07T01:45:44.842	2021-06-07T01:45:49.168
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Rump"":true}"					000179ae16--60bd7a4ef440ea6858942dca	000179ae16--60bc7eebfe5d13225934e802	43c7f10edc7d79ad0e9240eca38ba32e	2021-06-07T01:45:50.338	2021-06-07T01:45:55.010
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Wattle"":true}"					000179ae16--60bd7a5490429542be473888	000179ae16--60bc7eebfe5d13225934e7fa	43c7f10edc7d79ad0e9240eca38ba32e	2021-06-07T01:45:56.365	2021-06-07T01:45:58.894
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Throat"":true,""Primaries"":true}"					000179ae16--60bd7a57f33865758e9e4615	000179ae16--60bc7eebfe5d13225934e7f8	43c7f10edc7d79ad0e9240eca38ba32e	2021-06-07T01:45:59.813	2021-06-07T01:46:08.963
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Beak"":true}"					000179ae16--60bd91e978248827a60693cb	000179ae16--60bc7eebfe5d13225934e7fd	483a8dbfc667eee1f284c93dda82d761	2021-06-07T03:26:33.569	2021-06-07T03:26:51.859
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Beak"":true}"					000179ae16--60bd91fe0d84521c7433e9ea	000179ae16--60bc7eebfe5d13225934e7f9	483a8dbfc667eee1f284c93dda82d761	2021-06-07T03:26:54.195	2021-06-07T03:27:01.998
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Beak"":true}"					000179ae16--60bd9207319fec5a3500f184	000179ae16--60bc7eebfe5d13225934e7fa	483a8dbfc667eee1f284c93dda82d761	2021-06-07T03:27:03.188	2021-06-07T03:27:08.289
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Beak"":true}"					000179ae16--60bd920ef0deff310abe450d	000179ae16--60bc7eebfe5d13225934e7fc	483a8dbfc667eee1f284c93dda82d761	2021-06-07T03:27:10.133	2021-06-07T03:27:15.723
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Beak"":true}"					000179ae16--60bd921583d01a0997d109c2	000179ae16--60bc7eebfe5d13225934e7fe	483a8dbfc667eee1f284c93dda82d761	2021-06-07T03:27:17.900	2021-06-07T03:27:25.547
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Beak"":true}"					000179ae16--60bd921ea2e4442f853f8920	000179ae16--60bc7eebfe5d13225934e7f7	483a8dbfc667eee1f284c93dda82d761	2021-06-07T03:27:26.622	2021-06-07T03:27:31.318
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Beak"":true}"					000179ae16--60bd92241e5629033029465a	000179ae16--60bc7eebfe5d13225934e801	483a8dbfc667eee1f284c93dda82d761	2021-06-07T03:27:32.225	2021-06-07T03:27:40.253
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Beak"":true}"					000179ae16--60bd922ddf8878157e7f1c63	000179ae16--60bc7eebfe5d13225934e7f5	483a8dbfc667eee1f284c93dda82d761	2021-06-07T03:27:41.075	2021-06-07T03:27:47.099
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Tertials"":true,""Tibio-tarsal articulation"":true}"					000179ae16--60bdac0dc317463775ec5b84	000179ae16--60bc7eebfe5d13225934e7fb	8929fe32bcdb75d5c46f27ac8a0487c3	2021-06-07T05:18:05.804	2021-06-07T05:18:29.042
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Pupil"":true}"					000179ae16--60bdac2768183b5da8615dbb	000179ae16--60bc7eebfe5d13225934e800	8929fe32bcdb75d5c46f27ac8a0487c3	2021-06-07T05:18:31.630	2021-06-07T05:18:40.225
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Scapulars"":true,""Vent"":true}"					000179ae16--60bdac311e381301d7b750e9	000179ae16--60bc7eebfe5d13225934e7fe	8929fe32bcdb75d5c46f27ac8a0487c3	2021-06-07T05:18:41.604	2021-06-07T05:18:50.357
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Scapulars"":true,""Thigh"":true}"					000179ae16--60bdac3c250bd33fac9cde81	000179ae16--60bc7eebfe5d13225934e7fd	8929fe32bcdb75d5c46f27ac8a0487c3	2021-06-07T05:18:52.575	2021-06-07T05:18:56.831
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Primaries"":true,""Tarsus"":true,""Scapulars"":true}"					000179ae16--60bdac418a92a13359cf7ce5	000179ae16--60bc7eebfe5d13225934e7f9	8929fe32bcdb75d5c46f27ac8a0487c3	2021-06-07T05:18:57.807	2021-06-07T05:19:02.741
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Rump"":true,""Feet"":true,""Lesser Coverts"":true}"					000179ae16--60bdac4899211a6cb3aa6f44	000179ae16--60bc7eebfe5d13225934e7fa	8929fe32bcdb75d5c46f27ac8a0487c3	2021-06-07T05:19:04.157	2021-06-07T05:19:07.883
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Pupil"":true,""Tarsus"":true,""Scapulars"":true,""Thigh"":true}"					000179ae16--60bdac4d1e562903302a55d8	000179ae16--60bc7eebfe5d13225934e7fc	8929fe32bcdb75d5c46f27ac8a0487c3	2021-06-07T05:19:09.882	2021-06-07T05:19:14.750
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Lesser Coverts"":true,""Vent"":true}"					000179ae16--60bdac551909760f1d8f9d2e	000179ae16--60bc7eebfe5d13225934e801	8929fe32bcdb75d5c46f27ac8a0487c3	2021-06-07T05:19:17.223	2021-06-07T05:19:21.410
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Mantle"":true,""Primaries"":true,""Tarsus"":true}"					000179ae16--60bdac5af0deff310abf571b	000179ae16--60bc7eebfe5d13225934e7f5	8929fe32bcdb75d5c46f27ac8a0487c3	2021-06-07T05:19:22.751	2021-06-07T05:19:28.537
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Pupil"":true,""Thigh"":true,""Scapulars"":true,""Feet"":true}"					000179ae16--60bdac62f0deff310abf578d	000179ae16--60bc7eebfe5d13225934e7f4	8929fe32bcdb75d5c46f27ac8a0487c3	2021-06-07T05:19:30.914	2021-06-07T05:19:35.172
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Coverts"":true}"					000179ae16--60bdac693c6ca8596dbcc530	000179ae16--60bc7eebfe5d13225934e7f7	8929fe32bcdb75d5c46f27ac8a0487c3	2021-06-07T05:19:37.606	2021-06-07T05:19:40.557
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Pupil"":true}"					000179ae16--60bdac6d0d84521c74351e02	000179ae16--60bc7eebfe5d13225934e7f6	8929fe32bcdb75d5c46f27ac8a0487c3	2021-06-07T05:19:41.894	2021-06-07T05:19:47.590
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Pupil"":true}"					000179ae16--60bdac7690429542be48c701	000179ae16--60bc7eebfe5d13225934e7ff	8929fe32bcdb75d5c46f27ac8a0487c3	2021-06-07T05:19:50.110	2021-06-07T05:19:55.005
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Tertials"":true,""Tibio-tarsal articulation"":true}"					000179ae16--60bdac7c56e0ec582ad98dbb	000179ae16--60bc7eebfe5d13225934e802	8929fe32bcdb75d5c46f27ac8a0487c3	2021-06-07T05:19:56.154	2021-06-07T05:19:59.725
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Lesser Coverts"":true,""Scapulars"":true}"					000179ae16--60bdac810b590b3e2faa69e2	000179ae16--60bc7eebfe5d13225934e7f8	8929fe32bcdb75d5c46f27ac8a0487c3	2021-06-07T05:20:01.584	2021-06-07T05:20:09.282
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Beak"":true}"					000179ae16--60bdacf8f0deff310abf5b3c	000179ae16--60bc7eebfe5d13225934e7f5	e538849d75cb9d8da7ab96329614ef3f	2021-06-07T05:22:00.281	2021-06-07T05:22:33.217
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Beak"":true}"					000179ae16--60bdad1a1909760f1d8fa461	000179ae16--60bc7eebfe5d13225934e7fd	e538849d75cb9d8da7ab96329614ef3f	2021-06-07T05:22:34.219	2021-06-07T05:22:39.906
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Beak"":true}"					000179ae16--60bdad20f0deff310abf5cc9	000179ae16--60bc7eebfe5d13225934e7f9	e538849d75cb9d8da7ab96329614ef3f	2021-06-07T05:22:40.524	2021-06-07T05:22:46.092
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Beak"":true}"					000179ae16--60bdad277c5cbc714112b286	000179ae16--60bc7eebfe5d13225934e800	e538849d75cb9d8da7ab96329614ef3f	2021-06-07T05:22:47.287	2021-06-07T05:22:52.545
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Beak"":true}"					000179ae16--60bdad2d1e562903302a5dce	000179ae16--60bc7eebfe5d13225934e7fc	e538849d75cb9d8da7ab96329614ef3f	2021-06-07T05:22:53.133	2021-06-07T05:22:59.506
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Beak"":true}"					000179ae16--60bdad347c5cbc714112b31e	000179ae16--60bc7eebfe5d13225934e7fe	e538849d75cb9d8da7ab96329614ef3f	2021-06-07T05:23:00.815	2021-06-07T05:23:06.208
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Beak"":true}"					000179ae16--60bdad3b250bd33fac9ce643	000179ae16--60bc7eebfe5d13225934e801	e538849d75cb9d8da7ab96329614ef3f	2021-06-07T05:23:07.550	2021-06-07T05:23:12.792
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Beak"":true}"					000179ae16--60bdad41df8878157e8035de	000179ae16--60bc7eebfe5d13225934e7f4	e538849d75cb9d8da7ab96329614ef3f	2021-06-07T05:23:13.652	2021-06-07T05:23:19.190
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Beak"":true}"					000179ae16--60bdad48f220db21bc26f385	000179ae16--60bc7eebfe5d13225934e7fb	e538849d75cb9d8da7ab96329614ef3f	2021-06-07T05:23:20.473	2021-06-07T05:23:25.668
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Beak"":true}"					000179ae16--60bdad4ef220db21bc26f3ea	000179ae16--60bc7eebfe5d13225934e7f7	e538849d75cb9d8da7ab96329614ef3f	2021-06-07T05:23:26.778	2021-06-07T05:23:33.043
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Beak"":true}"					000179ae16--60bdad575bc69d784637cacb	000179ae16--60bc7eebfe5d13225934e7f6	e538849d75cb9d8da7ab96329614ef3f	2021-06-07T05:23:35.462	2021-06-07T05:23:41.821
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Beak"":true}"					000179ae16--60bdad5fc317463775ec68b7	000179ae16--60bc7eebfe5d13225934e7ff	e538849d75cb9d8da7ab96329614ef3f	2021-06-07T05:23:43.329	2021-06-07T05:23:49.265
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Beak"":true}"					000179ae16--60bdad66f0deff310abf5ec4	000179ae16--60bc7eebfe5d13225934e802	e538849d75cb9d8da7ab96329614ef3f	2021-06-07T05:23:50.150	2021-06-07T05:23:55.253
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Beak"":true}"					000179ae16--60bdad6b56e0ec582ad9963b	000179ae16--60bc7eebfe5d13225934e7fa	e538849d75cb9d8da7ab96329614ef3f	2021-06-07T05:23:55.770	2021-06-07T05:24:01.740
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Beak"":true}"					000179ae16--60bdad73319fec5a3501f70e	000179ae16--60bc7eebfe5d13225934e7f8	e538849d75cb9d8da7ab96329614ef3f	2021-06-07T05:24:03.217	2021-06-07T05:24:08.221
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Others"":true}"					000179ae16--60bdadcdabe5724111f1c429	000179ae16--60bc7eebfe5d13225934e800	199a21e33ebb17bc260a58d8d8dba057	2021-06-07T05:25:33.026	2021-06-07T05:26:02.117
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Others"":true}"					000179ae16--60bdae03c2e3f60252a3c054	000179ae16--60bc7eebfe5d13225934e7fd	199a21e33ebb17bc260a58d8d8dba057	2021-06-07T05:26:27.481	2021-06-07T05:26:36.481
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Others"":true}"					000179ae16--60bdae0d62f2586508d52ee9	000179ae16--60bc7eebfe5d13225934e7f8	199a21e33ebb17bc260a58d8d8dba057	2021-06-07T05:26:37.521	2021-06-07T05:26:45.138
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Others"":true}"					000179ae16--60bdae160b590b3e2faa78cc	000179ae16--60bc7eebfe5d13225934e7fc	199a21e33ebb17bc260a58d8d8dba057	2021-06-07T05:26:46.768	2021-06-07T05:26:54.077
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Others"":true}"					000179ae16--60bdae1f56e0ec582ad99e19	000179ae16--60bc7eebfe5d13225934e7f9	199a21e33ebb17bc260a58d8d8dba057	2021-06-07T05:26:55.282	2021-06-07T05:27:00.028
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Others"":true}"					000179ae16--60bdae263c6ca8596dbcd540	000179ae16--60bc7eebfe5d13225934e7fe	199a21e33ebb17bc260a58d8d8dba057	2021-06-07T05:27:02.103	2021-06-07T05:27:07.939
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Others"":true}"					000179ae16--60bdae2d99211a6cb3aa8177	000179ae16--60bc7eebfe5d13225934e801	199a21e33ebb17bc260a58d8d8dba057	2021-06-07T05:27:09.127	2021-06-07T05:27:15.556
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Others"":true}"					000179ae16--60bdae4568183b5da8617023	000179ae16--60bc7eebfe5d13225934e7f5	199a21e33ebb17bc260a58d8d8dba057	2021-06-07T05:27:33.452	2021-06-07T05:27:39.262
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Others"":true}"					000179ae16--60bdae4d2cf798441d1ff679	000179ae16--60bc7eebfe5d13225934e7f4	199a21e33ebb17bc260a58d8d8dba057	2021-06-07T05:27:41.422	2021-06-07T05:27:46.629
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Others"":true}"					000179ae16--60bdae530baf93026ae7f42f	000179ae16--60bc7eebfe5d13225934e7fb	199a21e33ebb17bc260a58d8d8dba057	2021-06-07T05:27:47.820	2021-06-07T05:27:52.917
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Others"":true}"					000179ae16--60bdae5a90429542be48d778	000179ae16--60bc7eebfe5d13225934e802	199a21e33ebb17bc260a58d8d8dba057	2021-06-07T05:27:54.376	2021-06-07T05:28:00.681
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Others"":true}"					000179ae16--60bdae618a92a13359cf8f92	000179ae16--60bc7eebfe5d13225934e7f7	199a21e33ebb17bc260a58d8d8dba057	2021-06-07T05:28:01.990	2021-06-07T05:28:06.875
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Others"":true}"					000179ae16--60bdae690baf93026ae7f50a	000179ae16--60bc7eebfe5d13225934e7f6	199a21e33ebb17bc260a58d8d8dba057	2021-06-07T05:28:09.012	2021-06-07T05:28:14.675
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Others"":true}"					000179ae16--60bdae718a92a13359cf9035	000179ae16--60bc7eebfe5d13225934e7ff	199a21e33ebb17bc260a58d8d8dba057	2021-06-07T05:28:17.130	2021-06-07T05:28:22.056
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Others"":true}"					000179ae16--60bdae77f0deff310abf6709	000179ae16--60bc7eebfe5d13225934e7fa	199a21e33ebb17bc260a58d8d8dba057	2021-06-07T05:28:23.037	2021-06-07T05:28:28.727
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Head"":true}"					000179ae16--60bdaff04dc48f273e4174ec	000179ae16--60bc7eebfe5d13225934e801	1961509830f2b997ad074828d21cb742	2021-06-07T05:34:40.965	2021-06-07T05:35:00.627
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Head"":true}"					000179ae16--60bdb0075bc69d784637e603	000179ae16--60bc7eebfe5d13225934e7fd	1961509830f2b997ad074828d21cb742	2021-06-07T05:35:03.181	2021-06-07T05:35:23.340
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Head"":true}"					000179ae16--60bdb01df0deff310abf7504	000179ae16--60bc7eebfe5d13225934e7f9	1961509830f2b997ad074828d21cb742	2021-06-07T05:35:25.375	2021-06-07T05:35:28.288
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Head"":true}"					000179ae16--60bdb021a2e4442f8541fe20	000179ae16--60bc7eebfe5d13225934e7fc	1961509830f2b997ad074828d21cb742	2021-06-07T05:35:29.605	2021-06-07T05:35:35.138
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Head"":true}"					000179ae16--60bdb0280b590b3e2faa8dcb	000179ae16--60bc7eebfe5d13225934e800	1961509830f2b997ad074828d21cb742	2021-06-07T05:35:36.893	2021-06-07T05:35:42.723
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Head"":true}"					000179ae16--60bdb030cd58ba6b3e4795fd	000179ae16--60bc7eebfe5d13225934e7fe	1961509830f2b997ad074828d21cb742	2021-06-07T05:35:44.139	2021-06-07T05:35:48.270
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Head"":true}"					000179ae16--60bdb035c2e3f60252a3d55b	000179ae16--60bc7eebfe5d13225934e7f5	1961509830f2b997ad074828d21cb742	2021-06-07T05:35:49.578	2021-06-07T05:35:53.649
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Head"":true}"					000179ae16--60bdb03b7afbc056f69ac85e	000179ae16--60bc7eebfe5d13225934e7fb	1961509830f2b997ad074828d21cb742	2021-06-07T05:35:55.821	2021-06-07T05:36:16.656
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Head"":true}"					000179ae16--60bdb0517c5cbc714112cee2	000179ae16--60bc7eebfe5d13225934e7f4	1961509830f2b997ad074828d21cb742	2021-06-07T05:36:17.702	2021-06-07T05:36:24.844
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Head"":true}"					000179ae16--60bdb05ac317463775ec9196	000179ae16--60bc7eebfe5d13225934e7f6	1961509830f2b997ad074828d21cb742	2021-06-07T05:36:26.383	2021-06-07T05:36:31.566
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Head"":true}"					000179ae16--60bdb0717c5cbc714112d014	000179ae16--60bc7eebfe5d13225934e7f7	1961509830f2b997ad074828d21cb742	2021-06-07T05:36:49.016	2021-06-07T05:36:53.916
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Head"":true}"					000179ae16--60bdb07790429542be48e946	000179ae16--60bc7eebfe5d13225934e7ff	1961509830f2b997ad074828d21cb742	2021-06-07T05:36:55.296	2021-06-07T05:36:58.431
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Head"":true}"					000179ae16--60bdb07c19d71055fef991bf	000179ae16--60bc7eebfe5d13225934e802	1961509830f2b997ad074828d21cb742	2021-06-07T05:37:00.494	2021-06-07T05:37:03.098
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Head"":true}"					000179ae16--60bdb080f220db21bc2711f7	000179ae16--60bc7eebfe5d13225934e7fa	1961509830f2b997ad074828d21cb742	2021-06-07T05:37:04.970	2021-06-07T05:37:07.190
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Head"":true}"					000179ae16--60bdb0857afbc056f69acabf	000179ae16--60bc7eebfe5d13225934e7f8	1961509830f2b997ad074828d21cb742	2021-06-07T05:37:09.228	2021-06-07T05:37:12.015
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Iris"":true}"					000179ae16--60bdb1ef19d71055fef99f4f	000179ae16--60bc7eebfe5d13225934e7fe	73f7cea75015d9faea369cd200af9b62	2021-06-07T05:43:11.705	2021-06-07T05:43:34.032
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Thigh"":true}"					000179ae16--60bdb2062cf798441d2016f7	000179ae16--60bc7eebfe5d13225934e801	73f7cea75015d9faea369cd200af9b62	2021-06-07T05:43:34.933	2021-06-07T05:43:52.906
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Belly"":true}"					000179ae16--60bdb21bdf8878157e8065d8	000179ae16--60bc7eebfe5d13225934e802	73f7cea75015d9faea369cd200af9b62	2021-06-07T05:43:55.483	2021-06-07T05:44:04.042
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Head"":true}"					000179ae16--60bdb2263c6ca8596dbd1ed5	000179ae16--60bc7eebfe5d13225934e800	73f7cea75015d9faea369cd200af9b62	2021-06-07T05:44:06.016	2021-06-07T05:44:12.469
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Beak"":true}"					000179ae16--60bdb22d2cf798441d201865	000179ae16--60bc7eebfe5d13225934e7f7	73f7cea75015d9faea369cd200af9b62	2021-06-07T05:44:13.542	2021-06-07T05:44:18.979
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Pupil"":true}"					000179ae16--60bdb234df8878157e8066fc	000179ae16--60bc7eebfe5d13225934e7f6	73f7cea75015d9faea369cd200af9b62	2021-06-07T05:44:20.242	2021-06-07T05:44:24.675
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Beak"":true}"					000179ae16--60bdb23a7c5cbc714112df50	000179ae16--60bc7eebfe5d13225934e7f8	73f7cea75015d9faea369cd200af9b62	2021-06-07T05:44:26.964	2021-06-07T05:44:31.077
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Pupil"":true}"					000179ae16--60bdb240f0deff310abf8750	000179ae16--60bc7eebfe5d13225934e7ff	73f7cea75015d9faea369cd200af9b62	2021-06-07T05:44:32.139	2021-06-07T05:44:35.931
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Others"":true}"					000179ae16--60bddc1d99211a6cb3adbf03	000179ae16--60bc7eebfe5d13225934e7fb	639927b15da5ada05d50362e6740126d	2021-06-07T08:43:09.144	2021-06-07T08:43:42.159
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png	the first image doesn't load	"{""Others"":true}"					000179ae16--60bddc3f8a92a13359d29f91	000179ae16--60bc7eebfe5d13225934e7fd	639927b15da5ada05d50362e6740126d	2021-06-07T08:43:43.071	2021-06-07T08:44:53.995
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png	"the first image doesn't load{""request_id"":""bdbc617526f836486e77d1253bbdb99e"",""code"":""ACCESS_DENIED"",""message"":""Access denied""}"	"{""Others"":true}"					000179ae16--60bddc8756e0ec582add456b	000179ae16--60bc7eebfe5d13225934e7f9	639927b15da5ada05d50362e6740126d	2021-06-07T08:44:55.020	2021-06-07T08:45:32.357
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png	"the first image doesn't load
+{""request_id"":""bdbc617526f836486e77d1253bbdb99e"",""code"":""ACCESS_DENIED"",""message"":""Access denied""}"	"{""Others"":true}"					000179ae16--60bddcae0baf93026aeb3448	000179ae16--60bc7eebfe5d13225934e802	639927b15da5ada05d50362e6740126d	2021-06-07T08:45:34.575	2021-06-07T08:46:12.557
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png	"the first image doesn't load
+{""request_id"":""bdbc617526f836486e77d1253bbdb99e"",""code"":""ACCESS_DENIED"",""message"":""Access denied""}"	"{""Others"":true}"					000179ae16--60bddcd57c5cbc7141150719	000179ae16--60bc7eebfe5d13225934e801	639927b15da5ada05d50362e6740126d	2021-06-07T08:46:13.634	2021-06-07T08:46:20.213
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png	"the first image doesn't load
+{""request_id"":""bdbc617526f836486e77d1253bbdb99e"",""code"":""ACCESS_DENIED"",""message"":""Access denied""}"	"{""Others"":true}"					000179ae16--60bddcdd99211a6cb3adcc52	000179ae16--60bc7eebfe5d13225934e7ff	639927b15da5ada05d50362e6740126d	2021-06-07T08:46:21.513	2021-06-07T08:46:27.388
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png	"the first image doesn't load
+{""request_id"":""bdbc617526f836486e77d1253bbdb99e"",""code"":""ACCESS_DENIED"",""message"":""Access denied""}"	"{""Others"":true}"					000179ae16--60bddce60d84521c74383247	000179ae16--60bc7eebfe5d13225934e7fc	639927b15da5ada05d50362e6740126d	2021-06-07T08:46:30.129	2021-06-07T08:46:46.257
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png	"the first image doesn't load
+{""request_id"":""bdbc617526f836486e77d1253bbdb99e"",""code"":""ACCESS_DENIED"",""message"":""Access denied""}"	"{""Others"":true}"					000179ae16--60bddcf75bc69d78463a335f	000179ae16--60bc7eebfe5d13225934e7fe	639927b15da5ada05d50362e6740126d	2021-06-07T08:46:47.211	2021-06-07T08:47:00.580
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png	"the first image doesn't load
+{""request_id"":""bdbc617526f836486e77d1253bbdb99e"",""code"":""ACCESS_DENIED"",""message"":""Access denied""}"	"{""Others"":true}"					000179ae16--60bddd05c317463775efd8be	000179ae16--60bc7eebfe5d13225934e7f5	639927b15da5ada05d50362e6740126d	2021-06-07T08:47:01.850	2021-06-07T08:47:15.900
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png	"the first image doesn't load
+{""request_id"":""bdbc617526f836486e77d1253bbdb99e"",""code"":""ACCESS_DENIED"",""message"":""Access denied""}"	"{""Others"":true}"					000179ae16--60bddd1462f2586508d79ad1	000179ae16--60bc7eebfe5d13225934e7f4	639927b15da5ada05d50362e6740126d	2021-06-07T08:47:16.858	2021-06-07T08:47:25.379
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png	"the first image doesn't load
+{""request_id"":""bdbc617526f836486e77d1253bbdb99e"",""code"":""ACCESS_DENIED"",""message"":""Access denied""}"	"{""Others"":true}"					000179ae16--60bddd280baf93026aeb3ed3	000179ae16--60bc7eebfe5d13225934e800	639927b15da5ada05d50362e6740126d	2021-06-07T08:47:36.895	2021-06-07T08:47:49.652
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png	"the first image doesn't load
+{""request_id"":""bdbc617526f836486e77d1253bbdb99e"",""code"":""ACCESS_DENIED"",""message"":""Access denied""}"	"{""Others"":true}"					000179ae16--60bddd370d84521c7438381c	000179ae16--60bc7eebfe5d13225934e7f7	639927b15da5ada05d50362e6740126d	2021-06-07T08:47:51.239	2021-06-07T08:48:10.440
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png	"the first image doesn't load
+{""request_id"":""bdbc617526f836486e77d1253bbdb99e"",""code"":""ACCESS_DENIED"",""message"":""Access denied""}"	"{""Others"":true}"					000179ae16--60bddd577afbc056f69d5a53	000179ae16--60bc7eebfe5d13225934e7f6	639927b15da5ada05d50362e6740126d	2021-06-07T08:48:23.363	2021-06-07T08:48:34.800
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png	"the first image doesn't load
+{""request_id"":""9c5d13b453e2d25f3b3e8baa52f26d03"",""code"":""ACCESS_DENIED"",""message"":""Access denied""}"	"{""Others"":true}"					000179ae16--60bddd641e381301d7ba99e2	000179ae16--60bc7eebfe5d13225934e7fa	639927b15da5ada05d50362e6740126d	2021-06-07T08:48:36.164	2021-06-07T08:48:53.836
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png	"the first image doesn't load
+{""request_id"":""111cd5737f4e64825a0c6005ee758f1b"",""code"":""ACCESS_DENIED"",""message"":""Access denied""}"	"{""Others"":true}"					000179ae16--60bddd771e381301d7ba9b4e	000179ae16--60bc7eebfe5d13225934e7f8	639927b15da5ada05d50362e6740126d	2021-06-07T08:48:55.331	2021-06-07T08:49:55.645
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Throat"":true}"					000179ae16--60bde2fa1e562903302e4612	000179ae16--60bc7eebfe5d13225934e7fe	b37b5d235504af0310639d543ccfcaa6	2021-06-07T09:12:26.446	2021-06-07T09:14:13.318
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Eyestripe"":true}"					000179ae16--60bde367319fec5a35055d5e	000179ae16--60bc7eebfe5d13225934e7fb	b37b5d235504af0310639d543ccfcaa6	2021-06-07T09:14:15.044	2021-06-07T09:14:28.426
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Throat"":true}"					000179ae16--60bde382f220db21bc2a9f0c	000179ae16--60bc7eebfe5d13225934e800	b37b5d235504af0310639d543ccfcaa6	2021-06-07T09:14:42.107	2021-06-07T09:14:51.237
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Beak"":true}"					000179ae16--60bde397abe5724111f549b8	000179ae16--60bc7eebfe5d13225934e7f7	b37b5d235504af0310639d543ccfcaa6	2021-06-07T09:15:03.122	2021-06-07T09:15:13.931
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Throat"":true}"					000179ae16--60bde3adbe2bd36caae59fb7	000179ae16--60bc7eebfe5d13225934e7fc	b37b5d235504af0310639d543ccfcaa6	2021-06-07T09:15:25.777	2021-06-07T09:16:09.208
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Flanks"":true,""Throat"":true}"					000179ae16--60bde3db250bd33fac9fefa6	000179ae16--60bc7eebfe5d13225934e7f8	b37b5d235504af0310639d543ccfcaa6	2021-06-07T09:16:11.130	2021-06-07T09:16:27.465
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Eyestripe"":true}"					000179ae16--60bde3ec19d71055fefd4ee5	000179ae16--60bc7eebfe5d13225934e7fd	b37b5d235504af0310639d543ccfcaa6	2021-06-07T09:16:28.461	2021-06-07T09:16:43.051
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Throat"":true}"					000179ae16--60bde3fc68183b5da864a261	000179ae16--60bc7eebfe5d13225934e802	b37b5d235504af0310639d543ccfcaa6	2021-06-07T09:16:44.401	2021-06-07T09:17:00.526
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Throat"":true}"					000179ae16--60bde40ef220db21bc2aac4b	000179ae16--60bc7eebfe5d13225934e7f9	b37b5d235504af0310639d543ccfcaa6	2021-06-07T09:17:02.098	2021-06-07T09:17:21.503
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Throat"":true,""Eyestripe"":true}"					000179ae16--60bde4231e381301d7bb20a1	000179ae16--60bc7eebfe5d13225934e801	b37b5d235504af0310639d543ccfcaa6	2021-06-07T09:17:23.310	2021-06-07T09:17:35.506
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Eyestripe"":true}"					000179ae16--60bde430df8878157e83b9ab	000179ae16--60bc7eebfe5d13225934e7f5	b37b5d235504af0310639d543ccfcaa6	2021-06-07T09:17:36.891	2021-06-07T09:17:44.130
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Throat"":true}"					000179ae16--60bde43919d71055fefd54ce	000179ae16--60bc7eebfe5d13225934e7f4	b37b5d235504af0310639d543ccfcaa6	2021-06-07T09:17:45.215	2021-06-07T09:17:53.114
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Eyestripe"":true}"					000179ae16--60bde443c317463775f0608c	000179ae16--60bc7eebfe5d13225934e7f6	b37b5d235504af0310639d543ccfcaa6	2021-06-07T09:17:55.172	2021-06-07T09:18:03.160
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Throat"":true}"					000179ae16--60bde44df220db21bc2ab0d2	000179ae16--60bc7eebfe5d13225934e7ff	b37b5d235504af0310639d543ccfcaa6	2021-06-07T09:18:05.338	2021-06-07T09:18:10.872
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Throat"":true,""Scapulars"":true}"					000179ae16--60bde453f440ea685898d323	000179ae16--60bc7eebfe5d13225934e7fa	b37b5d235504af0310639d543ccfcaa6	2021-06-07T09:18:11.770	2021-06-07T09:18:22.384
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Beak"":true}"					000179ae16--60bdeb8babe5724111f5d3ce	000179ae16--60bc7eebfe5d13225934e7f7	d26aa61e5e1ef3c45b045354f39a7938	2021-06-07T09:48:59.872	2021-06-07T09:49:07.063
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Tarsus"":true}"					000179ae16--60bdeb94f220db21bc2b4581	000179ae16--60bc7eebfe5d13225934e7f8	d26aa61e5e1ef3c45b045354f39a7938	2021-06-07T09:49:08.583	2021-06-07T09:49:12.445
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Tarsus"":true}"					000179ae16--60bdeb9adf8878157e844093	000179ae16--60bc7eebfe5d13225934e7fd	d26aa61e5e1ef3c45b045354f39a7938	2021-06-07T09:49:14.867	2021-06-07T09:49:17.131
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Vent"":true}"					000179ae16--60bdeb9ebe2bd36caae63090	000179ae16--60bc7eebfe5d13225934e7f4	d26aa61e5e1ef3c45b045354f39a7938	2021-06-07T09:49:18.397	2021-06-07T09:49:25.583
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Vent"":true}"					000179ae16--60bdeba68a92a13359d3b88b	000179ae16--60bc7eebfe5d13225934e7f9	d26aa61e5e1ef3c45b045354f39a7938	2021-06-07T09:49:26.820	2021-06-07T09:49:29.692
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Rump"":true}"					000179ae16--60bdebaa56e0ec582ade5225	000179ae16--60bc7eebfe5d13225934e7f5	d26aa61e5e1ef3c45b045354f39a7938	2021-06-07T09:49:30.839	2021-06-07T09:49:33.699
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Rump"":true}"					000179ae16--60bdebafe5851e2a55e41d8f	000179ae16--60bc7eebfe5d13225934e7fb	d26aa61e5e1ef3c45b045354f39a7938	2021-06-07T09:49:35.066	2021-06-07T09:49:37.375
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Primaries"":true}"					000179ae16--60bdebb3cd58ba6b3e4bcc32	000179ae16--60bc7eebfe5d13225934e7fc	d26aa61e5e1ef3c45b045354f39a7938	2021-06-07T09:49:39.047	2021-06-07T09:49:43.626
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Rump"":true}"					000179ae16--60bdebb80d84521c74394927	000179ae16--60bc7eebfe5d13225934e7fe	d26aa61e5e1ef3c45b045354f39a7938	2021-06-07T09:49:44.856	2021-06-07T09:49:46.849
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Tertials"":true}"					000179ae16--60bdebbd2cf798441d23efd8	000179ae16--60bc7eebfe5d13225934e801	d26aa61e5e1ef3c45b045354f39a7938	2021-06-07T09:49:49.252	2021-06-07T09:49:51.508
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Primaries"":true}"					000179ae16--60bdebc099211a6cb3af0320	000179ae16--60bc7eebfe5d13225934e800	d26aa61e5e1ef3c45b045354f39a7938	2021-06-07T09:49:52.763	2021-06-07T09:49:56.030
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Tarsus"":true}"					000179ae16--60bdebc4f0deff310ac39d94	000179ae16--60bc7eebfe5d13225934e7f6	d26aa61e5e1ef3c45b045354f39a7938	2021-06-07T09:49:56.844	2021-06-07T09:49:59.846
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Tarsus"":true}"					000179ae16--60bdebc8e5851e2a55e42097	000179ae16--60bc7eebfe5d13225934e7ff	d26aa61e5e1ef3c45b045354f39a7938	2021-06-07T09:50:00.887	2021-06-07T09:50:03.412
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Wattle"":true}"					000179ae16--60bdebcc319fec5a3505fcd5	000179ae16--60bc7eebfe5d13225934e802	d26aa61e5e1ef3c45b045354f39a7938	2021-06-07T09:50:04.693	2021-06-07T09:50:08.148
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Tibia"":true}"					000179ae16--60bdebd056e0ec582ade5537	000179ae16--60bc7eebfe5d13225934e7fa	d26aa61e5e1ef3c45b045354f39a7938	2021-06-07T09:50:08.970	2021-06-07T09:50:15.057
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Beak"":true,""Head"":true}"					000179ae16--60be0ea84f73891cd40eb40e	000179ae16--60bc7eebfe5d13225934e7fa	05d4cabee721b759c25eec8da8cc4c28	2021-06-07T12:18:48.667	2021-06-07T12:19:10.604
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Head"":true}"					000179ae16--60be0ebff440ea68589bedf3	000179ae16--60bc7eebfe5d13225934e7f6	05d4cabee721b759c25eec8da8cc4c28	2021-06-07T12:19:11.473	2021-06-07T12:19:19.934
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Head"":true}"					000179ae16--60be0ed568183b5da8681f3b	000179ae16--60bc7eebfe5d13225934e7fd	05d4cabee721b759c25eec8da8cc4c28	2021-06-07T12:19:33.511	2021-06-07T12:19:39.214
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Head"":true}"					000179ae16--60be0edc99211a6cb3b1f04b	000179ae16--60bc7eebfe5d13225934e7f4	05d4cabee721b759c25eec8da8cc4c28	2021-06-07T12:19:40.779	2021-06-07T12:19:56.488
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Head"":true}"					000179ae16--60be0efcc2e3f60252aacf0f	000179ae16--60bc7eebfe5d13225934e7f9	05d4cabee721b759c25eec8da8cc4c28	2021-06-07T12:20:12.050	2021-06-07T12:21:14.587
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Head"":true}"					000179ae16--60be0f3b319fec5a35092675	000179ae16--60bc7eebfe5d13225934e7fe	05d4cabee721b759c25eec8da8cc4c28	2021-06-07T12:21:15.675	2021-06-07T12:22:29.359
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Head"":true}"					000179ae16--60be0f880baf93026aef7faa	000179ae16--60bc7eebfe5d13225934e7fc	05d4cabee721b759c25eec8da8cc4c28	2021-06-07T12:22:32.928	2021-06-07T12:22:39.279
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Throat"":true}"					000179ae16--60be0f903946455c61ff0042	000179ae16--60bc7eebfe5d13225934e7fb	05d4cabee721b759c25eec8da8cc4c28	2021-06-07T12:22:40.302	2021-06-07T12:24:00.150
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Head"":true}"					000179ae16--60be0fe178248827a60f57bc	000179ae16--60bc7eebfe5d13225934e801	05d4cabee721b759c25eec8da8cc4c28	2021-06-07T12:24:01.762	2021-06-07T12:24:09.936
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Head"":true}"					000179ae16--60be0fea19d71055fe012f03	000179ae16--60bc7eebfe5d13225934e7f5	05d4cabee721b759c25eec8da8cc4c28	2021-06-07T12:24:10.537	2021-06-07T12:24:17.184
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Throat"":true}"					000179ae16--60be0ff33c6ca8596dc4a73e	000179ae16--60bc7eebfe5d13225934e800	05d4cabee721b759c25eec8da8cc4c28	2021-06-07T12:24:19.356	2021-06-07T12:24:44.221
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Throat"":true}"					000179ae16--60be100d7afbc056f6a13fb8	000179ae16--60bc7eebfe5d13225934e7f7	05d4cabee721b759c25eec8da8cc4c28	2021-06-07T12:24:45.500	2021-06-07T12:24:54.824
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Throat"":true}"					000179ae16--60be10180baf93026aef90c3	000179ae16--60bc7eebfe5d13225934e802	05d4cabee721b759c25eec8da8cc4c28	2021-06-07T12:24:56.371	2021-06-07T12:25:18.102
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Head"":true}"					000179ae16--60be102fc317463775f49ee9	000179ae16--60bc7eebfe5d13225934e7ff	05d4cabee721b759c25eec8da8cc4c28	2021-06-07T12:25:19.625	2021-06-07T12:25:26.766
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Throat"":true}"					000179ae16--60be10383c6ca8596dc4b9ff	000179ae16--60bc7eebfe5d13225934e7f8	05d4cabee721b759c25eec8da8cc4c28	2021-06-07T12:25:28.612	2021-06-07T12:25:36.397
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png	Crown, Nape, Chin, Forehead	"{""Head"":true,""Throat"":true,""Pupil"":true,""Others"":true}"					000179ae16--60be2f08250bd33faca56467	000179ae16--60bc7eebfe5d13225934e801	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-07T14:36:56.793	2021-06-07T14:40:48.165
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png	Crown, Nape, Wings	"{""Head"":true,""Pupil"":true,""Others"":true}"					000179ae16--60be2ff21e56290330352baa	000179ae16--60bc7eebfe5d13225934e7f8	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-07T14:40:50.508	2021-06-07T14:41:45.587
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png	Ear coverts	"{""Head"":true,""Pupil"":true,""Breast"":true,""Others"":true}"					000179ae16--60be302ac2e3f60252ad65d6	000179ae16--60bc7eebfe5d13225934e7f6	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-07T14:41:46.709	2021-06-07T14:42:23.585
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png	Ear coverts	"{""Beak"":true,""Head"":true,""Pupil"":true,""Others"":true}"					000179ae16--60be30514f73891cd4112599	000179ae16--60bc7eebfe5d13225934e7f7	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-07T14:42:25.303	2021-06-07T14:43:29.673
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png	Nape, Ear coverts	"{""Mantle"":true,""Head"":true,""Pupil"":true,""Others"":true}"					000179ae16--60be30924dc48f273e4aa0e3	000179ae16--60bc7eebfe5d13225934e7fc	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-07T14:43:30.931	2021-06-07T14:44:03.896
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png	Ear coverts, Nape	"{""Mantle"":true,""Others"":true}"					000179ae16--60be30b41e56290330353eaa	000179ae16--60bc7eebfe5d13225934e7f9	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-07T14:44:04.648	2021-06-07T14:45:52.200
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png	Ear coverts, Nape	"{""Others"":true}"					000179ae16--60be3121250bd33faca5885c	000179ae16--60bc7eebfe5d13225934e7ff	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-07T14:45:53.450	2021-06-07T14:46:09.560
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png	Ear coverts	"{""Pupil"":true,""Head"":true,""Beak"":true,""Others"":true}"					000179ae16--60be31332cf798441d29bc04	000179ae16--60bc7eebfe5d13225934e7fd	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-07T14:46:11.922	2021-06-07T14:46:27.121
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png	Ear coverts, Nape	"{""Pupil"":true,""Others"":true}"					000179ae16--60be314483d01a0997dd8f27	000179ae16--60bc7eebfe5d13225934e7fe	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-07T14:46:28.339	2021-06-07T14:46:42.340
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png	Ear coverts, Nape	"{""Pupil"":true,""Head"":true,""Mantle"":true,""Others"":true}"					000179ae16--60be315377ca373954d7dcb2	000179ae16--60bc7eebfe5d13225934e7f5	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-07T14:46:43.026	2021-06-07T14:46:58.159
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png	"Ear coverts
+"	"{""Throat"":true,""Others"":true}"					000179ae16--60be3164abe5724111fbcb88	000179ae16--60bc7eebfe5d13225934e7f4	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-07T14:47:00.704	2021-06-07T14:47:19.077
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png	Forehead	"{""Head"":true,""Pupil"":true,""Others"":true}"					000179ae16--60be31787afbc056f6a3c177	000179ae16--60bc7eebfe5d13225934e7fb	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-07T14:47:20.023	2021-06-07T14:47:58.283
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png	Chin	"{""Throat"":true,""Others"":true}"					000179ae16--60be319ff0deff310ac9afa0	000179ae16--60bc7eebfe5d13225934e800	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-07T14:47:59.334	2021-06-07T14:48:24.236
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Head"":true,""Pupil"":true,""Throat"":true}"					000179ae16--60be31baf440ea68589e8e81	000179ae16--60bc7eebfe5d13225934e802	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-07T14:48:26.047	2021-06-07T14:50:44.553
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Head"":true,""Pupil"":true,""Beak"":true,""Throat"":true,""Mantle"":true}"					000179ae16--60be32462cf798441d29d420	000179ae16--60bc7eebfe5d13225934e7fa	ce58f3ca97ad6ebb5e7054c8fda87829	2021-06-07T14:50:46.649	2021-06-07T14:51:13.897
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Head"":true}"					000179ae16--60be44331e56290330374a6d	000179ae16--60bc7eebfe5d13225934e7f8	4aac63e7993a618ae2f783472b0e9cc6	2021-06-07T16:07:15.841	2021-06-07T16:07:50.317
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Head"":true}"					000179ae16--60bea79a0d84521c7446be37	000179ae16--60bc7eebfe5d13225934e801	5f9625a5aea84e0a96dfd1a668eb6299	2021-06-07T23:11:22.274	2021-06-07T23:11:39.143
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Head"":true}"					000179ae16--60bea7ac4f73891cd4177ee7	000179ae16--60bc7eebfe5d13225934e7f9	5f9625a5aea84e0a96dfd1a668eb6299	2021-06-07T23:11:40.431	2021-06-07T23:11:46.056
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Head"":true}"					000179ae16--60bea7b3f220db21bc38635a	000179ae16--60bc7eebfe5d13225934e7fe	5f9625a5aea84e0a96dfd1a668eb6299	2021-06-07T23:11:47.021	2021-06-07T23:11:52.517
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Head"":true}"					000179ae16--60bea7b94dc48f273e5130a1	000179ae16--60bc7eebfe5d13225934e7fc	5f9625a5aea84e0a96dfd1a668eb6299	2021-06-07T23:11:53.362	2021-06-07T23:11:57.232
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Head"":true}"					000179ae16--60bea7be4dc48f273e5130a8	000179ae16--60bc7eebfe5d13225934e7fd	5f9625a5aea84e0a96dfd1a668eb6299	2021-06-07T23:11:58.204	2021-06-07T23:12:06.270
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Head"":true}"					000179ae16--60bea7c762f2586508e36692	000179ae16--60bc7eebfe5d13225934e7f6	5f9625a5aea84e0a96dfd1a668eb6299	2021-06-07T23:12:07.268	2021-06-07T23:12:11.982
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Head"":true}"					000179ae16--60bea7ce7afbc056f6a9d2d2	000179ae16--60bc7eebfe5d13225934e7fa	5f9625a5aea84e0a96dfd1a668eb6299	2021-06-07T23:12:14.044	2021-06-07T23:12:19.619
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Head"":true}"					000179ae16--60bea7d477ca373954df00b9	000179ae16--60bc7eebfe5d13225934e7f5	5f9625a5aea84e0a96dfd1a668eb6299	2021-06-07T23:12:20.862	2021-06-07T23:12:24.577
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Head"":true}"					000179ae16--60bea7d990429542be599d68	000179ae16--60bc7eebfe5d13225934e7f4	5f9625a5aea84e0a96dfd1a668eb6299	2021-06-07T23:12:25.778	2021-06-07T23:12:30.717
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Head"":true}"					000179ae16--60bea7df5bc69d784647dc09	000179ae16--60bc7eebfe5d13225934e7f7	5f9625a5aea84e0a96dfd1a668eb6299	2021-06-07T23:12:31.970	2021-06-07T23:12:36.221
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png	Body	"{""Head"":true}"					000179ae16--60bea7f419d71055fe0a9896	000179ae16--60bc7eebfe5d13225934e7fb	5f9625a5aea84e0a96dfd1a668eb6299	2021-06-07T23:12:52.833	2021-06-07T23:13:11.479
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Head"":true}"					000179ae16--60bea808f220db21bc3865bc	000179ae16--60bc7eebfe5d13225934e800	5f9625a5aea84e0a96dfd1a668eb6299	2021-06-07T23:13:12.384	2021-06-07T23:13:18.293
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Head"":true}"					000179ae16--60bea80f7afbc056f6a9d463	000179ae16--60bc7eebfe5d13225934e7ff	5f9625a5aea84e0a96dfd1a668eb6299	2021-06-07T23:13:19.669	2021-06-07T23:13:24.783
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Head"":true}"					000179ae16--60bea81790429542be599ea8	000179ae16--60bc7eebfe5d13225934e802	5f9625a5aea84e0a96dfd1a668eb6299	2021-06-07T23:13:27.037	2021-06-07T23:13:32.227
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Head"":true}"					000179ae16--60bea81d83d01a0997e46511	000179ae16--60bc7eebfe5d13225934e7f8	5f9625a5aea84e0a96dfd1a668eb6299	2021-06-07T23:13:33.528	2021-06-07T23:13:37.426
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Head"":true,""Beak"":true,""Iris"":true,""Feet"":true,""Wattle"":true,""Flanks"":true,""Tibio-tarsal articulation"":true,""Rump"":true,""Tertials"":true,""Coverts"":true,""Mantle"":true,""Pupil"":true,""Lesser Coverts"":true,""Scapulars"":true,""Primaries"":true,""Thigh"":true,""Vent"":true,""Tarsus"":true,""Tibia"":true,""Belly"":true,""Breast"":true,""Throat"":true,""Eyestripe"":true}"					000179ae16--60bf52e899211a6cb3c6e29d	000179ae16--60bc7eebfe5d13225934e7f5	5942a2dfa3675e5d63c1899e4ab5c690	2021-06-08T11:22:16.210	2021-06-08T11:22:43.402
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Tarsus"":true,""Tibio-tarsal articulation"":true,""Thigh"":true,""Primaries"":true,""Beak"":true,""Head"":true,""Pupil"":true,""Mantle"":true,""Lesser Coverts"":true,""Iris"":true,""Coverts"":true,""Tertials"":true,""Throat"":true,""Wattle"":true,""Eyestripe"":true}"					000179ae16--60bf5304250bd33facb4031a	000179ae16--60bc7eebfe5d13225934e802	5942a2dfa3675e5d63c1899e4ab5c690	2021-06-08T11:22:44.834	2021-06-08T11:23:06.928
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Beak"":true,""Head"":true,""Iris"":true,""Pupil"":true,""Mantle"":true,""Lesser Coverts"":true,""Scapulars"":true,""Coverts"":true}"					000179ae16--60bf531c78248827a624f1be	000179ae16--60bc7eebfe5d13225934e7fd	5942a2dfa3675e5d63c1899e4ab5c690	2021-06-08T11:23:08.261	2021-06-08T11:23:16.810
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Beak"":true,""Mantle"":true,""Pupil"":true,""Iris"":true,""Head"":true,""Lesser Coverts"":true,""Scapulars"":true,""Coverts"":true,""Tertials"":true,""Rump"":true,""Primaries"":true,""Vent"":true,""Tibio-tarsal articulation"":true,""Tibia"":true,""Belly"":true,""Flanks"":true,""Wattle"":true,""Eyestripe"":true,""Throat"":true,""Breast"":true}"					000179ae16--60bf5326319fec5a351eb96f	000179ae16--60bc7eebfe5d13225934e7f9	5942a2dfa3675e5d63c1899e4ab5c690	2021-06-08T11:23:18.411	2021-06-08T11:23:43.259
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Head"":true,""Beak"":true,""Lesser Coverts"":true,""Pupil"":true,""Iris"":true,""Mantle"":true,""Scapulars"":true,""Coverts"":true,""Tertials"":true,""Rump"":true,""Primaries"":true,""Thigh"":true,""Vent"":true,""Tarsus"":true,""Tibio-tarsal articulation"":true,""Feet"":true,""Tibia"":true,""Belly"":true,""Flanks"":true,""Breast"":true,""Wattle"":true,""Throat"":true,""Eyestripe"":true}"					000179ae16--60bf5340319fec5a351ebbed	000179ae16--60bc7eebfe5d13225934e7fc	5942a2dfa3675e5d63c1899e4ab5c690	2021-06-08T11:23:44.588	2021-06-08T11:24:03.647
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Beak"":true,""Mantle"":true,""Iris"":true,""Head"":true,""Pupil"":true,""Lesser Coverts"":true,""Scapulars"":true,""Coverts"":true,""Tertials"":true,""Rump"":true,""Primaries"":true,""Thigh"":true,""Vent"":true,""Tibio-tarsal articulation"":true,""Tarsus"":true}"					000179ae16--60bf53551909760f1dab2913	000179ae16--60bc7eebfe5d13225934e7fe	5942a2dfa3675e5d63c1899e4ab5c690	2021-06-08T11:24:05.777	2021-06-08T11:24:19.560
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Thigh"":true,""Vent"":true,""Primaries"":true,""Tertials"":true,""Rump"":true,""Coverts"":true,""Scapulars"":true,""Lesser Coverts"":true,""Mantle"":true,""Pupil"":true,""Iris"":true,""Head"":true,""Beak"":true}"					000179ae16--60bf53650b590b3e2fc64057	000179ae16--60bc7eebfe5d13225934e7f6	5942a2dfa3675e5d63c1899e4ab5c690	2021-06-08T11:24:21.025	2021-06-08T11:24:31.533
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Head"":true,""Beak"":true,""Pupil"":true,""Iris"":true,""Mantle"":true,""Lesser Coverts"":true,""Scapulars"":true,""Coverts"":true,""Tertials"":true,""Rump"":true,""Vent"":true,""Primaries"":true,""Thigh"":true,""Tibio-tarsal articulation"":true,""Tarsus"":true,""Feet"":true,""Tibia"":true,""Belly"":true,""Flanks"":true,""Breast"":true}"					000179ae16--60bf537eabe57241110e3b76	000179ae16--60bc7eebfe5d13225934e801	5942a2dfa3675e5d63c1899e4ab5c690	2021-06-08T11:24:46.302	2021-06-08T11:25:01.690
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Beak"":true,""Head"":true,""Iris"":true,""Pupil"":true,""Mantle"":true,""Lesser Coverts"":true,""Tertials"":true,""Coverts"":true,""Scapulars"":true,""Rump"":true,""Primaries"":true,""Vent"":true,""Thigh"":true}"					000179ae16--60bf538ec317463775093ab8	000179ae16--60bc7eebfe5d13225934e800	5942a2dfa3675e5d63c1899e4ab5c690	2021-06-08T11:25:02.928	2021-06-08T11:25:13.087
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Beak"":true,""Head"":true,""Iris"":true,""Pupil"":true,""Lesser Coverts"":true,""Mantle"":true,""Tertials"":true,""Coverts"":true,""Scapulars"":true,""Rump"":true,""Primaries"":true}"					000179ae16--60bf539a99211a6cb3c6efe3	000179ae16--60bc7eebfe5d13225934e7f4	5942a2dfa3675e5d63c1899e4ab5c690	2021-06-08T11:25:14.468	2021-06-08T11:25:23.436
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Beak"":true,""Head"":true,""Iris"":true,""Pupil"":true,""Mantle"":true,""Lesser Coverts"":true,""Scapulars"":true,""Coverts"":true,""Tertials"":true,""Rump"":true,""Primaries"":true,""Vent"":true,""Thigh"":true}"					000179ae16--60bf53a42cf798441d39c2e6	000179ae16--60bc7eebfe5d13225934e7fb	5942a2dfa3675e5d63c1899e4ab5c690	2021-06-08T11:25:24.801	2021-06-08T11:25:33.901
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Beak"":true,""Head"":true,""Iris"":true,""Pupil"":true,""Mantle"":true,""Lesser Coverts"":true,""Scapulars"":true,""Coverts"":true,""Tertials"":true,""Rump"":true,""Primaries"":true,""Vent"":true,""Thigh"":true}"					000179ae16--60bf53af56e0ec582af72280	000179ae16--60bc7eebfe5d13225934e7f7	5942a2dfa3675e5d63c1899e4ab5c690	2021-06-08T11:25:35.730	2021-06-08T11:25:45.074
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Beak"":true,""Head"":true,""Iris"":true,""Pupil"":true,""Mantle"":true,""Coverts"":true,""Lesser Coverts"":true,""Scapulars"":true,""Tertials"":true,""Rump"":true,""Primaries"":true,""Vent"":true,""Thigh"":true}"					000179ae16--60bf53badf8878157e9a0def	000179ae16--60bc7eebfe5d13225934e7ff	5942a2dfa3675e5d63c1899e4ab5c690	2021-06-08T11:25:46.528	2021-06-08T11:25:55.463
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Beak"":true,""Head"":true,""Pupil"":true,""Iris"":true,""Mantle"":true,""Lesser Coverts"":true,""Scapulars"":true,""Coverts"":true,""Tertials"":true,""Rump"":true,""Primaries"":true,""Vent"":true,""Thigh"":true}"					000179ae16--60bf53c456e0ec582af7241e	000179ae16--60bc7eebfe5d13225934e7fa	5942a2dfa3675e5d63c1899e4ab5c690	2021-06-08T11:25:56.331	2021-06-08T11:26:05.027
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Beak"":true,""Head"":true,""Iris"":true,""Pupil"":true,""Mantle"":true,""Lesser Coverts"":true,""Scapulars"":true,""Coverts"":true,""Tertials"":true,""Rump"":true,""Vent"":true,""Primaries"":true,""Thigh"":true,""Tibio-tarsal articulation"":true,""Tarsus"":true,""Feet"":true,""Belly"":true,""Tibia"":true,""Flanks"":true,""Breast"":true,""Throat"":true,""Eyestripe"":true,""Wattle"":true}"					000179ae16--60bf53ce3946455c61148c78	000179ae16--60bc7eebfe5d13225934e7f8	5942a2dfa3675e5d63c1899e4ab5c690	2021-06-08T11:26:06.137	2021-06-08T11:26:18.963
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Feet"":true}"					000179ae16--60bf65877afbc056f6b3e4cd	000179ae16--60bc7eebfe5d13225934e7f6	85da90cd50576af2f2c438c38d19d834	2021-06-08T12:41:43.662	2021-06-08T12:41:59.225
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_27.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_27.png		"{""Feet"":true}"					000179ae16--60bf65c17c5cbc71412a71e0	000179ae16--60bc7eebfe5d13225934e7fd	85da90cd50576af2f2c438c38d19d834	2021-06-08T12:42:41.868	2021-06-08T12:42:51.398
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_29.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_29.png		"{""Head"":true}"					000179ae16--60bf65cdf220db21bc453167	000179ae16--60bc7eebfe5d13225934e7f9	85da90cd50576af2f2c438c38d19d834	2021-06-08T12:42:53.313	2021-06-08T12:43:05.441
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_2.png		"{""Head"":true}"					000179ae16--60bf65da62f2586508ec96ca	000179ae16--60bc7eebfe5d13225934e7fc	85da90cd50576af2f2c438c38d19d834	2021-06-08T12:43:06.521	2021-06-08T12:43:14.259
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Rump"":true}"					000179ae16--60bf65e378248827a62693b7	000179ae16--60bc7eebfe5d13225934e7f7	85da90cd50576af2f2c438c38d19d834	2021-06-08T12:43:15.681	2021-06-08T12:43:46.881
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Lesser Coverts"":true}"					000179ae16--60bf6604cd58ba6b3e644cd4	000179ae16--60bc7eebfe5d13225934e7fe	85da90cd50576af2f2c438c38d19d834	2021-06-08T12:43:48.103	2021-06-08T12:44:06.867
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Lesser Coverts"":true}"					000179ae16--60bf6618f33865758ebe2914	000179ae16--60bc7eebfe5d13225934e7fa	85da90cd50576af2f2c438c38d19d834	2021-06-08T12:44:08.196	2021-06-08T12:44:15.477
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Head"":true}"					000179ae16--60bf66201e5629033049054d	000179ae16--60bc7eebfe5d13225934e7f4	85da90cd50576af2f2c438c38d19d834	2021-06-08T12:44:16.463	2021-06-08T12:44:24.424
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Head"":true}"					000179ae16--60bf66290baf93026a050383	000179ae16--60bc7eebfe5d13225934e7f5	85da90cd50576af2f2c438c38d19d834	2021-06-08T12:44:25.887	2021-06-08T12:44:33.596
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Head"":true}"					000179ae16--60bf66321e5629033049069d	000179ae16--60bc7eebfe5d13225934e7fb	85da90cd50576af2f2c438c38d19d834	2021-06-08T12:44:34.348	2021-06-08T12:44:41.554
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Lesser Coverts"":true}"					000179ae16--60bf663a4dc48f273e5c68ea	000179ae16--60bc7eebfe5d13225934e801	85da90cd50576af2f2c438c38d19d834	2021-06-08T12:44:42.624	2021-06-08T12:44:50.369
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Head"":true}"					000179ae16--60bf6644cd58ba6b3e645152	000179ae16--60bc7eebfe5d13225934e800	85da90cd50576af2f2c438c38d19d834	2021-06-08T12:44:52.246	2021-06-08T12:45:00.796
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Beak"":true}"					000179ae16--60bf664f68183b5da87d839f	000179ae16--60bc7eebfe5d13225934e7ff	85da90cd50576af2f2c438c38d19d834	2021-06-08T12:45:03.630	2021-06-08T12:45:09.729
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Head"":true}"					000179ae16--60bf667a5bc69d784651da3a	000179ae16--60bc7eebfe5d13225934e802	85da90cd50576af2f2c438c38d19d834	2021-06-08T12:45:46.054	2021-06-08T12:45:52.138
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Head"":true}"					000179ae16--60bf668183d01a0997ef7772	000179ae16--60bc7eebfe5d13225934e7f8	85da90cd50576af2f2c438c38d19d834	2021-06-08T12:45:53.428	2021-06-08T12:45:59.045
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_6_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_6_3.png		"{""Head"":true,""Belly"":true,""Tarsus"":true,""Wattle"":true}"					000179ae16--60bf750119d71055fe15bb92	000179ae16--60bc7eebfe5d13225934e7fe	08fb1fdb1e79ba9c6bbbd19f0ac4c74c	2021-06-08T13:47:45.465	2021-06-08T13:48:06.597
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_15.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_15.png		"{""Feet"":true,""Thigh"":true,""Belly"":true,""Throat"":true}"					000179ae16--60bf7518f440ea6858ae2125	000179ae16--60bc7eebfe5d13225934e800	08fb1fdb1e79ba9c6bbbd19f0ac4c74c	2021-06-08T13:48:08.115	2021-06-08T13:48:13.978
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_3.png		"{""Rump"":true,""Belly"":true,""Lesser Coverts"":true}"					000179ae16--60bf75200baf93026a061ad7	000179ae16--60bc7eebfe5d13225934e801	08fb1fdb1e79ba9c6bbbd19f0ac4c74c	2021-06-08T13:48:16.161	2021-06-08T13:48:21.715
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_9.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_9.png		"{""Thigh"":true,""Primaries"":true,""Feet"":true}"					000179ae16--60bf7526f440ea6858ae222c	000179ae16--60bc7eebfe5d13225934e7f5	08fb1fdb1e79ba9c6bbbd19f0ac4c74c	2021-06-08T13:48:22.649	2021-06-08T13:48:31.205
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_13.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_13.png		"{""Scapulars"":true,""Vent"":true,""Feet"":true,""Belly"":true}"					000179ae16--60bf75317afbc056f6b516e5	000179ae16--60bc7eebfe5d13225934e7f6	08fb1fdb1e79ba9c6bbbd19f0ac4c74c	2021-06-08T13:48:33.237	2021-06-08T13:48:39.259
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Tertials"":true,""Tibia"":true,""Tibio-tarsal articulation"":true}"					000179ae16--60bf75391e381301d7d32258	000179ae16--60bc7eebfe5d13225934e7fa	08fb1fdb1e79ba9c6bbbd19f0ac4c74c	2021-06-08T13:48:41.599	2021-06-08T13:48:49.222
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Tibia"":true,""Thigh"":true,""Rump"":true,""Coverts"":true,""Lesser Coverts"":true}"					000179ae16--60bf7542a2e4442f855ea94a	000179ae16--60bc7eebfe5d13225934e7f4	08fb1fdb1e79ba9c6bbbd19f0ac4c74c	2021-06-08T13:48:50.912	2021-06-08T13:49:00.058
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Flanks"":true,""Thigh"":true,""Primaries"":true}"					000179ae16--60bf754d5bc69d784652e757	000179ae16--60bc7eebfe5d13225934e7fb	08fb1fdb1e79ba9c6bbbd19f0ac4c74c	2021-06-08T13:49:01.117	2021-06-08T13:49:08.277
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_16.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_16.png		"{""Tibia"":true,""Lesser Coverts"":true,""Rump"":true}"					000179ae16--60bf7555f440ea6858ae25c6	000179ae16--60bc7eebfe5d13225934e7f7	08fb1fdb1e79ba9c6bbbd19f0ac4c74c	2021-06-08T13:49:09.130	2021-06-08T13:49:14.242
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Coverts"":true,""Vent"":true,""Tarsus"":true}"					000179ae16--60bf755c62f2586508ed9636	000179ae16--60bc7eebfe5d13225934e7ff	08fb1fdb1e79ba9c6bbbd19f0ac4c74c	2021-06-08T13:49:16.501	2021-06-08T13:49:20.630
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Scapulars"":true,""Tertials"":true,""Vent"":true,""Tarsus"":true}"					000179ae16--60bf75627afbc056f6b51aa0	000179ae16--60bc7eebfe5d13225934e802	08fb1fdb1e79ba9c6bbbd19f0ac4c74c	2021-06-08T13:49:22.467	2021-06-08T13:49:27.480
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Scapulars"":true,""Thigh"":true,""Feet"":true}"					000179ae16--60bf75684f73891cd4220f90	000179ae16--60bc7eebfe5d13225934e7f8	08fb1fdb1e79ba9c6bbbd19f0ac4c74c	2021-06-08T13:49:28.585	2021-06-08T13:49:33.482
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_4.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_4.png		"{""Head"":true,""Flanks"":true}"					000179ae16--60bf7ae2f0deff310aded764	000179ae16--60bc7eebfe5d13225934e7fb	acc78d5fb3575c0e4436abdd4ad25f54	2021-06-08T14:12:50.466	2021-06-08T14:13:04.962
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_8_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_8_31.png		"{""Head"":true,""Iris"":true,""Flanks"":true}"					000179ae16--60bf7b02250bd33facb70208	000179ae16--60bc7eebfe5d13225934e802	acc78d5fb3575c0e4436abdd4ad25f54	2021-06-08T14:13:22.015	2021-06-08T14:13:41.429
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_4_22.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_4_22.png		"{""Head"":true}"					000179ae16--60bf7b1678248827a628445f	000179ae16--60bc7eebfe5d13225934e7f4	acc78d5fb3575c0e4436abdd4ad25f54	2021-06-08T14:13:42.805	2021-06-08T14:13:49.321
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_7_3.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_7_3.png		"{""Head"":true}"					000179ae16--60bf7b1e99211a6cb3ca63fd	000179ae16--60bc7eebfe5d13225934e7ff	acc78d5fb3575c0e4436abdd4ad25f54	2021-06-08T14:13:50.608	2021-06-08T14:13:59.097
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_31.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_31.png		"{""Head"":true,""Iris"":true}"					000179ae16--60bf7b28c2e3f60252c2b84d	000179ae16--60bc7eebfe5d13225934e7fa	acc78d5fb3575c0e4436abdd4ad25f54	2021-06-08T14:14:00.644	2021-06-08T14:14:08.668
+												
+/pilot/HarlequinDuckMale/original_harlequin_duck_male_batch_5_2.png	/pilot/HarlequinDuckMale/harlequin_duck_male_batch_5_2.png		"{""Head"":true,""Rump"":true,""Thigh"":true,""Tarsus"":true}"					000179ae16--60bf7b31cd58ba6b3e661215	000179ae16--60bc7eebfe5d13225934e7f8	acc78d5fb3575c0e4436abdd4ad25f54	2021-06-08T14:14:09.704	2021-06-08T14:14:21.205
+												

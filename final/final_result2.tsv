@@ -1,0 +1,603 @@
+INPUT:image_left	INPUT:image_right	OUTPUT:others	OUTPUT:result	GOLDEN:others	GOLDEN:result	HINT:text	HINT:default_language	ASSIGNMENT:assignment_id	ASSIGNMENT:task_suite_id	ASSIGNMENT:worker_id	ASSIGNMENT:started	ASSIGNMENT:submitted
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Beak"":true,""Head"":true,""Mantle"":true,""Scapulars"":true,""Tertials"":true,""Thigh"":true,""Feet"":true}"					000179ad8d--60bc7fd819d71055feeb394d	000179ad8d--60bc7d723c003231386e5822	bd61a9c7aa762cde411015e3481b57d3	2021-06-06T07:57:12.034	2021-06-06T07:57:35.906
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Head"":true,""Mantle"":true}"					000179ad8d--60bc7fdfe5851e2a55d158bd	000179ad8d--60bc7d723c003231386e5822	68e7e51a9a83ae1012ba764886f752fa	2021-06-06T07:57:19.001	2021-06-06T07:57:54.005
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Beak"":true}"					000179ad8d--60bc7ff078248827a6f89690	000179ad8d--60bc7d723c003231386e581e	806499c2414a4c7a7c0ab2e483550f56	2021-06-06T07:57:36.002	2021-06-06T07:57:44.552
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Beak"":true,""Lesser Coverts"":true,""Coverts"":true,""Head"":true}"					000179ad8d--60bc7ff0f0deff310ab12d76	000179ad8d--60bc7d723c003231386e581f	bd61a9c7aa762cde411015e3481b57d3	2021-06-06T07:57:36.871	2021-06-06T07:57:44.613
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Pupil"":true}"					000179ad8d--60bc7ff990429542be3aa91f	000179ad8d--60bc7d723c003231386e5824	806499c2414a4c7a7c0ab2e483550f56	2021-06-06T07:57:45.658	2021-06-06T07:57:53.827
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Pupil"":true,""Scapulars"":true,""Beak"":true,""Head"":true}"					000179ad8d--60bc7ff9f0deff310ab12dd0	000179ad8d--60bc7d723c003231386e581c	bd61a9c7aa762cde411015e3481b57d3	2021-06-06T07:57:45.955	2021-06-06T07:57:55.721
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Head"":true,""Mantle"":true}"					000179ad8d--60bc8002c2e3f602529668eb	000179ad8d--60bc7d723c003231386e5826	68e7e51a9a83ae1012ba764886f752fa	2021-06-06T07:57:54.918	2021-06-06T07:58:06.954
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Pupil"":true}"					000179ad8d--60bc8002e5851e2a55d15a49	000179ad8d--60bc7d723c003231386e581c	806499c2414a4c7a7c0ab2e483550f56	2021-06-06T07:57:54.952	2021-06-06T07:57:59.750
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Beak"":true,""Pupil"":true,""Scapulars"":true,""Tertials"":true,""Rump"":true}"					000179ad8d--60bc8005df8878157e733ef0	000179ad8d--60bc7d723c003231386e581a	bd61a9c7aa762cde411015e3481b57d3	2021-06-06T07:57:57.982	2021-06-06T07:58:09.036
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Head"":true,""Mantle"":true}"					000179ad8d--60bc80101909760f1d839bf8	000179ad8d--60bc7d723c003231386e581f	68e7e51a9a83ae1012ba764886f752fa	2021-06-06T07:58:08.209	2021-06-06T07:58:25.532
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Pupil"":true,""Coverts"":true,""Beak"":true,""Lesser Coverts"":true,""Tibio-tarsal articulation"":true,""Tibia"":true,""Feet"":true}"					000179ad8d--60bc801162f2586508cb05e5	000179ad8d--60bc7d723c003231386e5824	bd61a9c7aa762cde411015e3481b57d3	2021-06-06T07:58:09.970	2021-06-06T07:58:23.692
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Flanks"":true}"					000179ad8d--60bc801a0b590b3e2f9cf2ab	000179ad8d--60bc7d723c003231386e5822	806499c2414a4c7a7c0ab2e483550f56	2021-06-06T07:58:18.580	2021-06-06T07:58:38.668
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Scapulars"":true,""Primaries"":true,""Flanks"":true,""Feet"":true,""Iris"":true}"					000179ad8d--60bc8021f220db21bc1808be	000179ad8d--60bc7d723c003231386e5823	bd61a9c7aa762cde411015e3481b57d3	2021-06-06T07:58:25.251	2021-06-06T07:58:36.296
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Head"":true,""Mantle"":true}"					000179ad8d--60bc8022abe5724111e34fc2	000179ad8d--60bc7d723c003231386e581c	68e7e51a9a83ae1012ba764886f752fa	2021-06-06T07:58:26.614	2021-06-06T07:58:34.164
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Head"":true,""Mantle"":true}"					000179ad8d--60bc802c0baf93026adab5cd	000179ad8d--60bc7d723c003231386e5823	68e7e51a9a83ae1012ba764886f752fa	2021-06-06T07:58:36.440	2021-06-06T07:58:43.811
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Mantle"":true,""Coverts"":true,""Thigh"":true,""Head"":true,""Pupil"":true,""Belly"":true,""Wattle"":true}"					000179ad8d--60bc802dc2e3f60252966a67	000179ad8d--60bc7d723c003231386e5827	bd61a9c7aa762cde411015e3481b57d3	2021-06-06T07:58:37.321	2021-06-06T07:58:46.914
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Head"":true}"					000179ad8d--60bc802f0baf93026adab5d8	000179ad8d--60bc7d723c003231386e581f	806499c2414a4c7a7c0ab2e483550f56	2021-06-06T07:58:39.873	2021-06-06T07:58:44.259
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Head"":true,""Mantle"":true}"					000179ad8d--60bc8034c2e3f60252966aa7	000179ad8d--60bc7d723c003231386e581e	68e7e51a9a83ae1012ba764886f752fa	2021-06-06T07:58:44.483	2021-06-06T07:58:49.205
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Mantle"":true}"					000179ad8d--60bc803583d01a0997c53d51	000179ad8d--60bc7d723c003231386e5823	806499c2414a4c7a7c0ab2e483550f56	2021-06-06T07:58:45.815	2021-06-06T07:58:48.802
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Wattle"":true,""Belly"":true,""Tarsus"":true,""Primaries"":true,""Scapulars"":true}"					000179ad8d--60bc80378a92a13359c29d4f	000179ad8d--60bc7d723c003231386e5820	bd61a9c7aa762cde411015e3481b57d3	2021-06-06T07:58:47.829	2021-06-06T07:58:52.170
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Vent"":true,""Tertials"":true}"					000179ad8d--60bc80397c5cbc71410869b7	000179ad8d--60bc7d723c003231386e581a	806499c2414a4c7a7c0ab2e483550f56	2021-06-06T07:58:49.708	2021-06-06T07:58:52.730
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Head"":true,""Mantle"":true}"					000179ad8d--60bc803a7c5cbc71410869cf	000179ad8d--60bc7d723c003231386e581d	68e7e51a9a83ae1012ba764886f752fa	2021-06-06T07:58:50.146	2021-06-06T07:58:55.911
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Feet"":true,""Vent"":true}"					000179ad8d--60bc803dcd58ba6b3e3a984d	000179ad8d--60bc7d723c003231386e5828	806499c2414a4c7a7c0ab2e483550f56	2021-06-06T07:58:53.686	2021-06-06T07:58:55.839
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Vent"":true,""Flanks"":true,""Coverts"":true,""Pupil"":true,""Beak"":true}"					000179ad8d--60bc803de5851e2a55d15d05	000179ad8d--60bc7d723c003231386e5821	bd61a9c7aa762cde411015e3481b57d3	2021-06-06T07:58:53.236	2021-06-06T07:58:58.757
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Mantle"":true,""Rump"":true}"					000179ad8d--60bc80403c6ca8596daf32ce	000179ad8d--60bc7d723c003231386e581d	806499c2414a4c7a7c0ab2e483550f56	2021-06-06T07:58:56.369	2021-06-06T07:58:59.899
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Head"":true,""Mantle"":true,""Coverts"":true,""Rump"":true,""Pupil"":true}"					000179ad8d--60bc8040f0deff310ab13079	000179ad8d--60bc7d723c003231386e5827	68e7e51a9a83ae1012ba764886f752fa	2021-06-06T07:58:56.712	2021-06-06T07:59:07.395
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Head"":true,""Iris"":true,""Lesser Coverts"":true,""Primaries"":true}"					000179ad8d--60bc80440d84521c74275a47	000179ad8d--60bc7d723c003231386e5828	bd61a9c7aa762cde411015e3481b57d3	2021-06-06T07:59:00.136	2021-06-06T07:59:04.166
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Rump"":true,""Scapulars"":true}"					000179ad8d--60bc8045319fec5a35f43371	000179ad8d--60bc7d723c003231386e5826	806499c2414a4c7a7c0ab2e483550f56	2021-06-06T07:59:01.876	2021-06-06T07:59:06.117
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Beak"":true,""Head"":true,""Rump"":true,""Tibio-tarsal articulation"":true,""Scapulars"":true,""Mantle"":true,""Belly"":true,""Throat"":true}"					000179ad8d--60bc804a4dc48f273e36e420	000179ad8d--60bc7d723c003231386e581e	bd61a9c7aa762cde411015e3481b57d3	2021-06-06T07:59:06.034	2021-06-06T07:59:13.472
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Tertials"":true,""Tibio-tarsal articulation"":true}"					000179ad8d--60bc804bc2e3f60252966bd6	000179ad8d--60bc7d723c003231386e5820	806499c2414a4c7a7c0ab2e483550f56	2021-06-06T07:59:07.119	2021-06-06T07:59:12.562
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Iris"":true,""Head"":true,""Mantle"":true,""Rump"":true,""Coverts"":true,""Thigh"":true}"					000179ad8d--60bc804c8a92a13359c29e88	000179ad8d--60bc7d723c003231386e581a	68e7e51a9a83ae1012ba764886f752fa	2021-06-06T07:59:08.301	2021-06-06T07:59:21.300
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Primaries"":true,""Tertials"":true,""Lesser Coverts"":true}"					000179ad8d--60bc805156e0ec582acbecd8	000179ad8d--60bc7d723c003231386e5821	806499c2414a4c7a7c0ab2e483550f56	2021-06-06T07:59:13.292	2021-06-06T07:59:16.670
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Breast"":true,""Pupil"":true,""Head"":true,""Beak"":true,""Tibio-tarsal articulation"":true,""Rump"":true,""Thigh"":true}"					000179ad8d--60bc805283d01a0997c53ef5	000179ad8d--60bc7d723c003231386e581d	bd61a9c7aa762cde411015e3481b57d3	2021-06-06T07:59:14.797	2021-06-06T07:59:22.726
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Vent"":true,""Rump"":true,""Coverts"":true}"					000179ad8d--60bc80550d84521c74275b28	000179ad8d--60bc7d723c003231386e5825	806499c2414a4c7a7c0ab2e483550f56	2021-06-06T07:59:17.738	2021-06-06T07:59:21.685
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Feet"":true,""Tarsus"":true}"					000179ad8d--60bc805b83d01a0997c53f3c	000179ad8d--60bc7d723c003231386e5827	806499c2414a4c7a7c0ab2e483550f56	2021-06-06T07:59:23.272	2021-06-06T07:59:26.107
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Beak"":true,""Pupil"":true,""Head"":true,""Thigh"":true,""Tarsus"":true,""Coverts"":true,""Mantle"":true,""Primaries"":true}"					000179ad8d--60bc805bc2e3f60252966c32	000179ad8d--60bc7d723c003231386e5826	bd61a9c7aa762cde411015e3481b57d3	2021-06-06T07:59:23.622	2021-06-06T07:59:29.309
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Rump"":true,""Tarsus"":true}"					000179ad8d--60bc80608a92a13359c29f31	000179ad8d--60bc7d723c003231386e581b	806499c2414a4c7a7c0ab2e483550f56	2021-06-06T07:59:28.683	2021-06-06T07:59:32.595
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Flanks"":true,""Tibia"":true,""Throat"":true,""Tibio-tarsal articulation"":true,""Vent"":true,""Scapulars"":true,""Iris"":true,""Beak"":true,""Head"":true}"					000179ad8d--60bc8062f33865758e928600	000179ad8d--60bc7d723c003231386e581b	bd61a9c7aa762cde411015e3481b57d3	2021-06-06T07:59:30.323	2021-06-06T07:59:38.335
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Head"":true,""Iris"":true,""Mantle"":true,""Scapulars"":true,""Primaries"":true,""Tarsus"":true,""Tibia"":true,""Feet"":true}"					000179ad8d--60bc806b78248827a6f89cc6	000179ad8d--60bc7d723c003231386e5825	bd61a9c7aa762cde411015e3481b57d3	2021-06-06T07:59:39.829	2021-06-06T07:59:46.650
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Head"":true,""Mantle"":true,""Coverts"":true,""Rump"":true,""Scapulars"":true}"					000179ad8d--60bc806e62f2586508cb0a2e	000179ad8d--60bc7d723c003231386e5824	68e7e51a9a83ae1012ba764886f752fa	2021-06-06T07:59:42.907	2021-06-06T07:59:51.881
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Head"":true,""Pupil"":true,""Mantle"":true,""Coverts"":true,""Tertials"":true,""Vent"":true}"					000179ad8d--60bc8079df8878157e73444c	000179ad8d--60bc7d723c003231386e5820	68e7e51a9a83ae1012ba764886f752fa	2021-06-06T07:59:53.257	2021-06-06T07:59:58.455
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Head"":true,""Mantle"":true}"					000179ad8d--60bc807f1e562903301dfa32	000179ad8d--60bc7d723c003231386e5821	68e7e51a9a83ae1012ba764886f752fa	2021-06-06T07:59:59.455	2021-06-06T08:00:09.815
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Head"":true,""Pupil"":true,""Vent"":true,""Tertials"":true,""Mantle"":true,""Primaries"":true}"					000179ad8d--60bc808bf220db21bc180edd	000179ad8d--60bc7d723c003231386e5828	68e7e51a9a83ae1012ba764886f752fa	2021-06-06T08:00:11.238	2021-06-06T08:00:19.721
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Head"":true,""Iris"":true,""Pupil"":true,""Lesser Coverts"":true,""Scapulars"":true,""Coverts"":true,""Mantle"":true}"					000179ad8d--60bc80ab83d01a0997c544d4	000179ad8d--60bc7d723c003231386e5825	68e7e51a9a83ae1012ba764886f752fa	2021-06-06T08:00:43.533	2021-06-06T08:00:50.810
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Head"":true,""Iris"":true,""Pupil"":true,""Mantle"":true,""Scapulars"":true,""Primaries"":true}"					000179ad8d--60bc80b578248827a6f8a04c	000179ad8d--60bc7d723c003231386e581b	68e7e51a9a83ae1012ba764886f752fa	2021-06-06T08:00:53.351	2021-06-06T08:01:00.728
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png	CV chf	"{""Beak"":true,""Scapulars"":true}"					000179ad8d--60bc80d35bc69d78462c4671	000179ad8d--60bc7d723c003231386e5824	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-06T08:01:23.959	2021-06-06T08:01:38.208
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png	Fjdg	"{""Thigh"":true,""Breast"":true}"					000179ad8d--60bc80e383d01a0997c547f1	000179ad8d--60bc7d723c003231386e5822	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-06T08:01:39.638	2021-06-06T08:01:45.473
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png	Fjfhfgg	"{""Tertials"":true,""Tibia"":true}"					000179ad8d--60bc80eb0d84521c74276308	000179ad8d--60bc7d723c003231386e581f	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-06T08:01:47.460	2021-06-06T08:01:57.586
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png	Fhfhff	"{""Tertials"":true,""Tarsus"":true,""Throat"":true}"					000179ad8d--60bc80f899211a6cb39af6b4	000179ad8d--60bc7d723c003231386e5828	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-06T08:02:00.021	2021-06-06T08:02:06.818
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png	Fhcgfd	"{""Scapulars"":true,""Tibio-tarsal articulation"":true}"					000179ad8d--60bc81000b590b3e2f9cff6b	000179ad8d--60bc7d723c003231386e581c	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-06T08:02:08.181	2021-06-06T08:02:16.195
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png	Dhfhggg	"{""Scapulars"":true,""Thigh"":true}"					000179ad8d--60bc810990429542be3ab804	000179ad8d--60bc7d723c003231386e581b	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-06T08:02:17.713	2021-06-06T08:02:23.134
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png	Fuchhc	"{""Lesser Coverts"":true,""Vent"":true,""Flanks"":true}"					000179ad8d--60bc8110f220db21bc1817b4	000179ad8d--60bc7d723c003231386e581a	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-06T08:02:24.762	2021-06-06T08:02:30.320
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png	Fudhdf	"{""Coverts"":true,""Feet"":true,""Throat"":true}"					000179ad8d--60bc811756e0ec582acbf7f8	000179ad8d--60bc7d723c003231386e5823	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-06T08:02:31.381	2021-06-06T08:02:39.566
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png	Dhdhdfg	"{""Tertials"":true,""Tibia"":true,""Throat"":true}"					000179ad8d--60bc8121a2e4442f8532cf0d	000179ad8d--60bc7d723c003231386e581e	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-06T08:02:41.149	2021-06-06T08:02:47.854
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png	Fuchfg	"{""Rump"":true,""Tibio-tarsal articulation"":true,""Belly"":true}"					000179ad8d--60bc8128e5851e2a55d169dc	000179ad8d--60bc7d723c003231386e581d	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-06T08:02:48.771	2021-06-06T08:02:55.589
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png	Ghdhgd	"{""Thigh"":true,""Belly"":true}"					000179ad8d--60bc8130250bd33fac9212f5	000179ad8d--60bc7d723c003231386e5826	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-06T08:02:56.996	2021-06-06T08:03:02.146
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png	Fuchff	"{""Rump"":true,""Feet"":true,""Throat"":true}"					000179ad8d--60bc813790429542be3aba3c	000179ad8d--60bc7d723c003231386e5820	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-06T08:03:03.236	2021-06-06T08:03:09.870
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png	Fufhd	"{""Primaries"":true,""Belly"":true}"					000179ad8d--60bc813ff440ea68588af7e8	000179ad8d--60bc7d723c003231386e5821	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-06T08:03:11.193	2021-06-06T08:03:16.632
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png	Fkfjfhc	"{""Rump"":true,""Tarsus"":true,""Flanks"":true}"					000179ad8d--60bc8155e5851e2a55d16b38	000179ad8d--60bc7d723c003231386e5825	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-06T08:03:33.162	2021-06-06T08:03:41.680
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png	Fuckgf	"{""Primaries"":true,""Tibia"":true}"					000179ad8d--60bc815f4dc48f273e36f0ce	000179ad8d--60bc7d723c003231386e5827	2201683f4ed5fe50fffcc4305cfbc6c4	2021-06-06T08:03:43.037	2021-06-06T08:03:50.036
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Belly"":true}"					000179ad8d--60bc8174f33865758e92965c	000179ad8d--60bc7d723c003231386e5822	bb76c0662b3b1215648276744214e3c3	2021-06-06T08:04:04.322	2021-06-06T08:04:29.416
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Tertials"":true}"					000179ad8d--60bc818fa2e4442f8532d794	000179ad8d--60bc7d723c003231386e581b	bb76c0662b3b1215648276744214e3c3	2021-06-06T08:04:31.115	2021-06-06T08:04:34.973
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Coverts"":true}"					000179ad8d--60bc8194a2e4442f8532d7e9	000179ad8d--60bc7d723c003231386e581d	bb76c0662b3b1215648276744214e3c3	2021-06-06T08:04:36.145	2021-06-06T08:04:41.174
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Head"":true}"					000179ad8d--60bc81997c5cbc714108798d	000179ad8d--60bc7d723c003231386e5824	bb76c0662b3b1215648276744214e3c3	2021-06-06T08:04:41.940	2021-06-06T08:04:46.734
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Rump"":true}"					000179ad8d--60bc819ff33865758e929874	000179ad8d--60bc7d723c003231386e581c	bb76c0662b3b1215648276744214e3c3	2021-06-06T08:04:47.879	2021-06-06T08:04:51.856
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Throat"":true}"					000179ad8d--60bc81a5250bd33fac9217fb	000179ad8d--60bc7d723c003231386e581f	bb76c0662b3b1215648276744214e3c3	2021-06-06T08:04:53.395	2021-06-06T08:05:03.152
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Pupil"":true}"					000179ad8d--60bc81b399211a6cb39b0064	000179ad8d--60bc7d723c003231386e5823	bb76c0662b3b1215648276744214e3c3	2021-06-06T08:05:07.424	2021-06-06T08:05:12.376
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Beak"":true}"					000179ad8d--60bc81b9f33865758e929a13	000179ad8d--60bc7d723c003231386e5821	bb76c0662b3b1215648276744214e3c3	2021-06-06T08:05:13.254	2021-06-06T08:05:18.066
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Mantle"":true}"					000179ad8d--60bc81d61909760f1d83b2d5	000179ad8d--60bc7d723c003231386e5827	bb76c0662b3b1215648276744214e3c3	2021-06-06T08:05:42.912	2021-06-06T08:05:47.865
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Pupil"":true}"					000179ad8d--60bc81dd68183b5da855bf1a	000179ad8d--60bc7d723c003231386e581e	bb76c0662b3b1215648276744214e3c3	2021-06-06T08:05:49.098	2021-06-06T08:05:54.310
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Tibia"":true}"					000179ad8d--60bc81e34dc48f273e36f69b	000179ad8d--60bc7d723c003231386e581a	bb76c0662b3b1215648276744214e3c3	2021-06-06T08:05:55.627	2021-06-06T08:06:06.094
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Coverts"":true}"					000179ad8d--60bc81f00b590b3e2f9d0b47	000179ad8d--60bc7d723c003231386e5826	bb76c0662b3b1215648276744214e3c3	2021-06-06T08:06:08.091	2021-06-06T08:06:13.977
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Tertials"":true}"					000179ad8d--60bc81f8be2bd36caad59c2a	000179ad8d--60bc7d723c003231386e5820	bb76c0662b3b1215648276744214e3c3	2021-06-06T08:06:16.125	2021-06-06T08:06:38.347
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Scapulars"":true}"					000179ad8d--60bc820fc2e3f602529680d5	000179ad8d--60bc7d723c003231386e5825	bb76c0662b3b1215648276744214e3c3	2021-06-06T08:06:39.217	2021-06-06T08:06:42.371
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Vent"":true,""Flanks"":true}"					000179ad8d--60bc8214df8878157e735b7a	000179ad8d--60bc7d723c003231386e5828	bb76c0662b3b1215648276744214e3c3	2021-06-06T08:06:44.249	2021-06-06T08:06:49.275
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Coverts"":true,""Scapulars"":true}"					000179ad8d--60bc8243319fec5a35f44cd4	000179ad8d--60bc7d723c003231386e581f	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-06T08:07:31.231	2021-06-06T08:08:19.400
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Scapulars"":true,""Coverts"":true}"					000179ad8d--60bc82757afbc056f68ef784	000179ad8d--60bc7d723c003231386e581e	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-06T08:08:21.846	2021-06-06T08:08:43.575
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Primaries"":true}"					000179ad8d--60bc82863c6ca8596daf6fdb	000179ad8d--60bc7d723c003231386e5822	4566c1e1de2957498caed19b7818e234	2021-06-06T08:08:38.230	2021-06-06T08:09:21.253
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Scapulars"":true,""Coverts"":true}"					000179ad8d--60bc828ce5851e2a55d17b78	000179ad8d--60bc7d723c003231386e581a	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-06T08:08:44.881	2021-06-06T08:09:03.835
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Scapulars"":true,""Coverts"":true}"					000179ad8d--60bc82a20baf93026adad3f2	000179ad8d--60bc7d723c003231386e5824	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-06T08:09:06.302	2021-06-06T08:09:17.312
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Scapulars"":true,""Coverts"":true}"					000179ad8d--60bc82afbe2bd36caad5a676	000179ad8d--60bc7d723c003231386e5822	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-06T08:09:19.276	2021-06-06T08:09:24.730
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Rump"":true}"					000179ad8d--60bc82b21e381301d7aaa029	000179ad8d--60bc7d723c003231386e581f	4566c1e1de2957498caed19b7818e234	2021-06-06T08:09:22.801	2021-06-06T08:09:30.162
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Scapulars"":true,""Tertials"":true}"					000179ad8d--60bc82b6f33865758e92a85f	000179ad8d--60bc7d723c003231386e581c	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-06T08:09:26.438	2021-06-06T08:09:32.039
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Rump"":true}"					000179ad8d--60bc82bbf440ea68588b093a	000179ad8d--60bc7d723c003231386e5823	4566c1e1de2957498caed19b7818e234	2021-06-06T08:09:31.310	2021-06-06T08:09:35.822
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Scapulars"":true,""Coverts"":true}"					000179ad8d--60bc82bdc2e3f60252968cfb	000179ad8d--60bc7d723c003231386e5823	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-06T08:09:33.438	2021-06-06T08:09:38.226
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Rump"":true}"					000179ad8d--60bc82c1c2e3f60252968d2e	000179ad8d--60bc7d723c003231386e581c	4566c1e1de2957498caed19b7818e234	2021-06-06T08:09:37.695	2021-06-06T08:09:45.110
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Scapulars"":true,""Coverts"":true}"					000179ad8d--60bc82c52cf798441d13b506	000179ad8d--60bc7d723c003231386e5821	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-06T08:09:41.335	2021-06-06T08:09:46.006
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Rump"":true}"					000179ad8d--60bc82ca68183b5da855cf39	000179ad8d--60bc7d723c003231386e581e	4566c1e1de2957498caed19b7818e234	2021-06-06T08:09:46.190	2021-06-06T08:09:52.646
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Scapulars"":true,""Coverts"":true}"					000179ad8d--60bc82cb319fec5a35f452a9	000179ad8d--60bc7d723c003231386e581d	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-06T08:09:47.803	2021-06-06T08:09:52.912
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Scapulars"":true,""Coverts"":true}"					000179ad8d--60bc82d21909760f1d83bf19	000179ad8d--60bc7d723c003231386e5826	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-06T08:09:54.389	2021-06-06T08:09:59.349
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Rump"":true}"					000179ad8d--60bc82d2f0deff310ab15258	000179ad8d--60bc7d723c003231386e581a	4566c1e1de2957498caed19b7818e234	2021-06-06T08:09:54.630	2021-06-06T08:10:01.175
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Scapulars"":true,""Coverts"":true}"					000179ad8d--60bc82d856e0ec582acc0cfd	000179ad8d--60bc7d723c003231386e5820	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-06T08:10:00.831	2021-06-06T08:10:05.158
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Rump"":true}"					000179ad8d--60bc82da0baf93026adad73f	000179ad8d--60bc7d723c003231386e5824	4566c1e1de2957498caed19b7818e234	2021-06-06T08:10:02.619	2021-06-06T08:10:08.418
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Scapulars"":true,""Coverts"":true}"					000179ad8d--60bc82df1e381301d7aaa260	000179ad8d--60bc7d723c003231386e5825	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-06T08:10:07.498	2021-06-06T08:10:11.784
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Rump"":true}"					000179ad8d--60bc82e1c2e3f60252968e8f	000179ad8d--60bc7d723c003231386e581d	4566c1e1de2957498caed19b7818e234	2021-06-06T08:10:09.350	2021-06-06T08:10:14.755
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Scapulars"":true,""Coverts"":true}"					000179ad8d--60bc82e53c6ca8596daf74e3	000179ad8d--60bc7d723c003231386e5827	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-06T08:10:13.053	2021-06-06T08:10:17.315
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Rump"":true}"					000179ad8d--60bc82e7c2e3f60252968eea	000179ad8d--60bc7d723c003231386e5827	4566c1e1de2957498caed19b7818e234	2021-06-06T08:10:15.835	2021-06-06T08:10:19.471
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Scapulars"":true,""Coverts"":true}"					000179ad8d--60bc82eadf8878157e73665a	000179ad8d--60bc7d723c003231386e5828	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-06T08:10:18.344	2021-06-06T08:10:22.724
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Rump"":true}"					000179ad8d--60bc82ec83d01a0997c562db	000179ad8d--60bc7d723c003231386e5826	4566c1e1de2957498caed19b7818e234	2021-06-06T08:10:20.769	2021-06-06T08:10:27.554
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Scapulars"":true,""Coverts"":true}"					000179ad8d--60bc82efdf8878157e736691	000179ad8d--60bc7d723c003231386e581b	15a4a0fabdff5c6fafb4ceec037036f4	2021-06-06T08:10:23.793	2021-06-06T08:10:29.433
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Rump"":true}"					000179ad8d--60bc82f4df8878157e7366fd	000179ad8d--60bc7d723c003231386e5820	4566c1e1de2957498caed19b7818e234	2021-06-06T08:10:28.485	2021-06-06T08:10:35.079
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Rump"":true}"					000179ad8d--60bc82fd1909760f1d83c147	000179ad8d--60bc7d723c003231386e5821	4566c1e1de2957498caed19b7818e234	2021-06-06T08:10:37.376	2021-06-06T08:10:42.288
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Rump"":true}"					000179ad8d--60bc8303abe5724111e3779f	000179ad8d--60bc7d723c003231386e5825	4566c1e1de2957498caed19b7818e234	2021-06-06T08:10:43.072	2021-06-06T08:10:48.069
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Rump"":true}"					000179ad8d--60bc8332f0deff310ab1592f	000179ad8d--60bc7d723c003231386e5828	4566c1e1de2957498caed19b7818e234	2021-06-06T08:11:30.108	2021-06-06T08:11:37.580
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Rump"":true}"					000179ad8d--60bc833a7c5cbc7141088c45	000179ad8d--60bc7d723c003231386e581b	4566c1e1de2957498caed19b7818e234	2021-06-06T08:11:38.508	2021-06-06T08:11:43.565
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Iris"":true}"					000179ad8d--60bc83bc319fec5a35f45f72	000179ad8d--60bc7d723c003231386e5820	0a38c1d55212684e44c78880897c0e6a	2021-06-06T08:13:48.395	2021-06-06T08:15:47.879
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png	Ок	"{""Pupil"":true}"					000179ad8d--60bc8426a2e4442f853310ac	000179ad8d--60bc7d723c003231386e5822	e437fbd9ceb444360ad235ac9290a9e0	2021-06-06T08:15:34.318	2021-06-06T08:15:48.550
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Iris"":true}"					000179ad8d--60bc84351909760f1d83cf9b	000179ad8d--60bc7d723c003231386e581a	0a38c1d55212684e44c78880897c0e6a	2021-06-06T08:15:49.239	2021-06-06T08:15:57.210
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png	Ок	"{""Feet"":true}"					000179ad8d--60bc843568183b5da855e23b	000179ad8d--60bc7d723c003231386e5824	e437fbd9ceb444360ad235ac9290a9e0	2021-06-06T08:15:49.973	2021-06-06T08:15:57.801
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Iris"":true}"					000179ad8d--60bc843e8a92a13359c2d997	000179ad8d--60bc7d723c003231386e5822	0a38c1d55212684e44c78880897c0e6a	2021-06-06T08:15:58.415	2021-06-06T08:16:05.331
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png	Ок	"{""Tibio-tarsal articulation"":true}"					000179ad8d--60bc843f68183b5da855e2c6	000179ad8d--60bc7d723c003231386e5828	e437fbd9ceb444360ad235ac9290a9e0	2021-06-06T08:15:59.085	2021-06-06T08:16:04.894
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Iris"":true}"					000179ad8d--60bc84464f73891cd4fd072a	000179ad8d--60bc7d723c003231386e581f	0a38c1d55212684e44c78880897c0e6a	2021-06-06T08:16:06.927	2021-06-06T08:16:13.575
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png	Ок	"{""Feet"":true}"					000179ad8d--60bc844690429542be3af236	000179ad8d--60bc7d723c003231386e581f	e437fbd9ceb444360ad235ac9290a9e0	2021-06-06T08:16:06.415	2021-06-06T08:16:16.907
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Iris"":true}"					000179ad8d--60bc844e99211a6cb39b22f8	000179ad8d--60bc7d723c003231386e5823	0a38c1d55212684e44c78880897c0e6a	2021-06-06T08:16:14.995	2021-06-06T08:16:22.076
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png	Ок	"{""Tibia"":true}"					000179ad8d--60bc84520baf93026adae9b0	000179ad8d--60bc7d723c003231386e5823	e437fbd9ceb444360ad235ac9290a9e0	2021-06-06T08:16:18.648	2021-06-06T08:16:25.756
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Iris"":true}"					000179ad8d--60bc84587c5cbc7141089ab3	000179ad8d--60bc7d723c003231386e5828	0a38c1d55212684e44c78880897c0e6a	2021-06-06T08:16:24.840	2021-06-06T08:16:31.979
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png	Ок	"{""Rump"":true}"					000179ad8d--60bc845b1909760f1d83d137	000179ad8d--60bc7d723c003231386e581c	e437fbd9ceb444360ad235ac9290a9e0	2021-06-06T08:16:27.198	2021-06-06T08:16:33.207
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Iris"":true}"					000179ad8d--60bc8462a2e4442f853315e7	000179ad8d--60bc7d723c003231386e581c	0a38c1d55212684e44c78880897c0e6a	2021-06-06T08:16:34.867	2021-06-06T08:16:45.067
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png	Ок	"{""Thigh"":true}"					000179ad8d--60bc84637afbc056f68f11b1	000179ad8d--60bc7d723c003231386e581e	e437fbd9ceb444360ad235ac9290a9e0	2021-06-06T08:16:35.089	2021-06-06T08:16:41.338
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png	Рк	"{""Throat"":true}"					000179ad8d--60bc846b99211a6cb39b2442	000179ad8d--60bc7d723c003231386e5820	e437fbd9ceb444360ad235ac9290a9e0	2021-06-06T08:16:43.294	2021-06-06T08:16:48.802
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Iris"":true}"					000179ad8d--60bc846e3c6ca8596daf8b5a	000179ad8d--60bc7d723c003231386e581e	0a38c1d55212684e44c78880897c0e6a	2021-06-06T08:16:46.093	2021-06-06T08:16:51.423
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png	Ок	"{""Feet"":true}"					000179ad8d--60bc84712cf798441d13cb7e	000179ad8d--60bc7d723c003231386e581a	e437fbd9ceb444360ad235ac9290a9e0	2021-06-06T08:16:49.990	2021-06-06T08:16:56.898
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Iris"":true}"					000179ad8d--60bc847483d01a0997c57547	000179ad8d--60bc7d723c003231386e5824	0a38c1d55212684e44c78880897c0e6a	2021-06-06T08:16:52.587	2021-06-06T08:16:59.096
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Iris"":true}"					000179ad8d--60bc847ccd58ba6b3e3ad25e	000179ad8d--60bc7d723c003231386e5827	0a38c1d55212684e44c78880897c0e6a	2021-06-06T08:17:00.543	2021-06-06T08:17:06.979
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Iris"":true}"					000179ad8d--60bc8485a2e4442f85331926	000179ad8d--60bc7d723c003231386e581d	0a38c1d55212684e44c78880897c0e6a	2021-06-06T08:17:09.091	2021-06-06T08:17:15.904
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Iris"":true}"					000179ad8d--60bc848d1e381301d7aab99d	000179ad8d--60bc7d723c003231386e5826	0a38c1d55212684e44c78880897c0e6a	2021-06-06T08:17:17.345	2021-06-06T08:17:24.537
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Iris"":true}"					000179ad8d--60bc84961e381301d7aaba29	000179ad8d--60bc7d723c003231386e5821	0a38c1d55212684e44c78880897c0e6a	2021-06-06T08:17:26.238	2021-06-06T08:17:36.018
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png	Ok	"{""Feet"":true}"					000179ad8d--60bc849fc317463775dde739	000179ad8d--60bc7d723c003231386e5825	e437fbd9ceb444360ad235ac9290a9e0	2021-06-06T08:17:35.678	2021-06-06T08:17:46.825
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Iris"":true}"					000179ad8d--60bc84a1250bd33fac923e62	000179ad8d--60bc7d723c003231386e5825	0a38c1d55212684e44c78880897c0e6a	2021-06-06T08:17:37.258	2021-06-06T08:17:43.681
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Iris"":true}"					000179ad8d--60bc84aa90429542be3af790	000179ad8d--60bc7d723c003231386e581b	0a38c1d55212684e44c78880897c0e6a	2021-06-06T08:17:46.101	2021-06-06T08:17:50.759
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png	Ok	"{""Tarsus"":true}"					000179ad8d--60bc84ab3c6ca8596daf8e14	000179ad8d--60bc7d723c003231386e5826	e437fbd9ceb444360ad235ac9290a9e0	2021-06-06T08:17:47.853	2021-06-06T08:17:53.775
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png	Oj	"{""Throat"":true}"					000179ad8d--60bc84b3c2e3f6025296a7ba	000179ad8d--60bc7d723c003231386e581d	e437fbd9ceb444360ad235ac9290a9e0	2021-06-06T08:17:55.326	2021-06-06T08:18:01.366
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png	Ok	"{""Tibia"":true}"					000179ad8d--60bc84bb90429542be3af8f0	000179ad8d--60bc7d723c003231386e5821	e437fbd9ceb444360ad235ac9290a9e0	2021-06-06T08:18:03.751	2021-06-06T08:18:10.783
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png	Ok	"{""Throat"":true}"					000179ad8d--60bc84c4319fec5a35f47cca	000179ad8d--60bc7d723c003231386e5827	e437fbd9ceb444360ad235ac9290a9e0	2021-06-06T08:18:12.965	2021-06-06T08:18:19.531
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png	Ok	"{""Breast"":true}"					000179ad8d--60bc84cd0b590b3e2f9d2e69	000179ad8d--60bc7d723c003231386e581b	e437fbd9ceb444360ad235ac9290a9e0	2021-06-06T08:18:21.029	2021-06-06T08:18:28.607
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Rump"":true}"					000179ad8d--60bc88920d84521c7427cfa0	000179ad8d--60bc7d723c003231386e5822	de8b143db8cc117f63054d1f3171b05c	2021-06-06T08:34:26.978	2021-06-06T08:34:39.755
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Coverts"":true}"					000179ad8d--60bc88a190429542be3b3d34	000179ad8d--60bc7d723c003231386e5820	de8b143db8cc117f63054d1f3171b05c	2021-06-06T08:34:41.511	2021-06-06T08:34:45.794
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Thigh"":true}"					000179ad8d--60bc88a778248827a6f90f19	000179ad8d--60bc7d723c003231386e581c	de8b143db8cc117f63054d1f3171b05c	2021-06-06T08:34:47.173	2021-06-06T08:34:51.044
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Belly"":true}"					000179ad8d--60bc88adabe5724111e3bf55	000179ad8d--60bc7d723c003231386e581f	de8b143db8cc117f63054d1f3171b05c	2021-06-06T08:34:53.574	2021-06-06T08:34:59.678
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Feet"":true}"					000179ad8d--60bc88b490429542be3b3e22	000179ad8d--60bc7d723c003231386e5823	de8b143db8cc117f63054d1f3171b05c	2021-06-06T08:35:00.723	2021-06-06T08:35:06.724
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Breast"":true}"					000179ad8d--60bc88bb3c6ca8596dafc200	000179ad8d--60bc7d723c003231386e581e	de8b143db8cc117f63054d1f3171b05c	2021-06-06T08:35:07.897	2021-06-06T08:35:10.820
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Belly"":true}"					000179ad8d--60bc88c01e381301d7aaf6ac	000179ad8d--60bc7d723c003231386e5825	de8b143db8cc117f63054d1f3171b05c	2021-06-06T08:35:12.308	2021-06-06T08:35:15.023
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Flanks"":true}"					000179ad8d--60bc88c48a92a13359c32926	000179ad8d--60bc7d723c003231386e581a	de8b143db8cc117f63054d1f3171b05c	2021-06-06T08:35:16.114	2021-06-06T08:35:19.581
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Tibio-tarsal articulation"":true}"					000179ad8d--60bc88c8e5851e2a55d1d640	000179ad8d--60bc7d723c003231386e581d	de8b143db8cc117f63054d1f3171b05c	2021-06-06T08:35:20.578	2021-06-06T08:35:24.003
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Tertials"":true}"					000179ad8d--60bc88cd83d01a0997c5adcf	000179ad8d--60bc7d723c003231386e5824	de8b143db8cc117f63054d1f3171b05c	2021-06-06T08:35:25.326	2021-06-06T08:35:28.713
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Scapulars"":true}"					000179ad8d--60bc88d14dc48f273e374d99	000179ad8d--60bc7d723c003231386e5826	de8b143db8cc117f63054d1f3171b05c	2021-06-06T08:35:29.539	2021-06-06T08:35:31.968
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Rump"":true}"					000179ad8d--60bc88d44dc48f273e374dda	000179ad8d--60bc7d723c003231386e5821	de8b143db8cc117f63054d1f3171b05c	2021-06-06T08:35:32.585	2021-06-06T08:35:36.090
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Primaries"":true}"					000179ad8d--60bc88d97afbc056f68f4954	000179ad8d--60bc7d723c003231386e5827	de8b143db8cc117f63054d1f3171b05c	2021-06-06T08:35:37.025	2021-06-06T08:35:40.888
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Thigh"":true}"					000179ad8d--60bc88de90429542be3b3f58	000179ad8d--60bc7d723c003231386e5828	de8b143db8cc117f63054d1f3171b05c	2021-06-06T08:35:42.441	2021-06-06T08:35:45.591
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Tarsus"":true}"					000179ad8d--60bc88e28a92a13359c32a8d	000179ad8d--60bc7d723c003231386e581b	de8b143db8cc117f63054d1f3171b05c	2021-06-06T08:35:46.513	2021-06-06T08:35:50.824
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Beak"":true}"					000179ad8d--60bc8cce3c6ca8596daff86d	000179ad8d--60bc7d723c003231386e581f	78466778048c1fe10bcbc959893c8b1a	2021-06-06T08:52:30.558	2021-06-06T08:52:50.692
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Beak"":true}"					000179ad8d--60bc8f70be2bd36caad64a72	000179ad8d--60bc7d723c003231386e5822	361a9374283428b5e9b42059bc3dc069	2021-06-06T09:03:44.350	2021-06-06T09:03:58.551
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Head"":true}"					000179ad8d--60bc8f80cd58ba6b3e3b5fa8	000179ad8d--60bc7d723c003231386e5820	361a9374283428b5e9b42059bc3dc069	2021-06-06T09:04:00.386	2021-06-06T09:04:18.098
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Beak"":true,""Vent"":true,""Flanks"":true}"					000179ad8d--60bc90811e562903301edacb	000179ad8d--60bc7d723c003231386e5822	7e380f1423b88ea58f571add21996d11	2021-06-06T09:08:17.025	2021-06-06T09:08:29.031
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Lesser Coverts"":true,""Thigh"":true,""Flanks"":true,""Wattle"":true}"					000179ad8d--60bc908eabe5724111e4274a	000179ad8d--60bc7d723c003231386e581b	7e380f1423b88ea58f571add21996d11	2021-06-06T09:08:30.165	2021-06-06T09:08:36.497
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Thigh"":true,""Belly"":true}"					000179ad8d--60bc9096f220db21bc193c58	000179ad8d--60bc7d723c003231386e581d	7e380f1423b88ea58f571add21996d11	2021-06-06T09:08:38.921	2021-06-06T09:08:41.452
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Vent"":true,""Belly"":true,""Throat"":true}"					000179ad8d--60bc909ac2e3f60252978917	000179ad8d--60bc7d723c003231386e581e	7e380f1423b88ea58f571add21996d11	2021-06-06T09:08:42.259	2021-06-06T09:08:46.219
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Vent"":true,""Flanks"":true,""Belly"":true}"					000179ad8d--60bc90a019d71055feec332f	000179ad8d--60bc7d723c003231386e581f	7e380f1423b88ea58f571add21996d11	2021-06-06T09:08:48.033	2021-06-06T09:08:52.436
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Primaries"":true,""Tarsus"":true,""Flanks"":true}"					000179ad8d--60bc90a568183b5da856a68a	000179ad8d--60bc7d723c003231386e581c	7e380f1423b88ea58f571add21996d11	2021-06-06T09:08:53.932	2021-06-06T09:08:57.513
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Thigh"":true,""Feet"":true,""Flanks"":true}"					000179ad8d--60bc90abcd58ba6b3e3b71e3	000179ad8d--60bc7d723c003231386e5823	7e380f1423b88ea58f571add21996d11	2021-06-06T09:08:59.065	2021-06-06T09:09:01.260
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Vent"":true,""Tarsus"":true,""Flanks"":true,""Wattle"":true}"					000179ad8d--60bc90ae1e562903301edd32	000179ad8d--60bc7d723c003231386e581a	7e380f1423b88ea58f571add21996d11	2021-06-06T09:09:02.170	2021-06-06T09:09:06.243
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Thigh"":true,""Feet"":true,""Breast"":true,""Wattle"":true}"					000179ad8d--60bc90b378248827a6f9b86f	000179ad8d--60bc7d723c003231386e5824	7e380f1423b88ea58f571add21996d11	2021-06-06T09:09:07.836	2021-06-06T09:09:10.229
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Vent"":true,""Tibio-tarsal articulation"":true,""Belly"":true,""Breast"":true}"					000179ad8d--60bc90b878248827a6f9b89d	000179ad8d--60bc7d723c003231386e5820	7e380f1423b88ea58f571add21996d11	2021-06-06T09:09:12.173	2021-06-06T09:09:14.844
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Vent"":true,""Tibio-tarsal articulation"":true,""Belly"":true,""Breast"":true}"					000179ad8d--60bc90bc78248827a6f9b904	000179ad8d--60bc7d723c003231386e5826	7e380f1423b88ea58f571add21996d11	2021-06-06T09:09:16.532	2021-06-06T09:09:19.171
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Vent"":true,""Tibio-tarsal articulation"":true,""Belly"":true,""Flanks"":true}"					000179ad8d--60bc90c11e381301d7ab6269	000179ad8d--60bc7d723c003231386e5821	7e380f1423b88ea58f571add21996d11	2021-06-06T09:09:21.298	2021-06-06T09:09:24.470
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Primaries"":true,""Thigh"":true,""Belly"":true,""Breast"":true}"					000179ad8d--60bc90c64f73891cd4fda768	000179ad8d--60bc7d723c003231386e5825	7e380f1423b88ea58f571add21996d11	2021-06-06T09:09:26.182	2021-06-06T09:09:28.958
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Rump"":true,""Tibio-tarsal articulation"":true,""Belly"":true,""Breast"":true}"					000179ad8d--60bc90ca4f73891cd4fda77f	000179ad8d--60bc7d723c003231386e5827	7e380f1423b88ea58f571add21996d11	2021-06-06T09:09:30.326	2021-06-06T09:09:33.205
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Primaries"":true,""Tarsus"":true,""Flanks"":true,""Breast"":true}"					000179ad8d--60bc90ce3c6ca8596db03015	000179ad8d--60bc7d723c003231386e5828	7e380f1423b88ea58f571add21996d11	2021-06-06T09:09:34.315	2021-06-06T09:09:37.331
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Scapulars"":true}"					000179ad8d--60bc9667df8878157e746975	000179ad8d--60bc7d723c003231386e5820	43a31cf952da9cc7c79a3ad9e465e498	2021-06-06T09:33:27.255	2021-06-06T09:35:14.788
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Coverts"":true}"					000179ad8d--60bc96d3f440ea68588c0594	000179ad8d--60bc7d723c003231386e5828	43a31cf952da9cc7c79a3ad9e465e498	2021-06-06T09:35:15.678	2021-06-06T09:35:26.629
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Primaries"":true}"					000179ad8d--60bc96dfcd58ba6b3e3bc775	000179ad8d--60bc7d723c003231386e5822	43a31cf952da9cc7c79a3ad9e465e498	2021-06-06T09:35:27.892	2021-06-06T09:35:38.212
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Tertials"":true}"					000179ad8d--60bc96ebdf8878157e746fe8	000179ad8d--60bc7d723c003231386e581f	43a31cf952da9cc7c79a3ad9e465e498	2021-06-06T09:35:39.040	2021-06-06T09:35:45.165
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Thigh"":true}"					000179ad8d--60bc96f40b590b3e2f9e3093	000179ad8d--60bc7d723c003231386e5827	43a31cf952da9cc7c79a3ad9e465e498	2021-06-06T09:35:48.930	2021-06-06T09:36:00.832
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Mantle"":true}"					000179ad8d--60bc97018a92a13359c3e46b	000179ad8d--60bc7d723c003231386e581c	43a31cf952da9cc7c79a3ad9e465e498	2021-06-06T09:36:01.980	2021-06-06T09:36:10.468
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Tertials"":true}"					000179ad8d--60bc970bf0deff310ab26854	000179ad8d--60bc7d723c003231386e5823	43a31cf952da9cc7c79a3ad9e465e498	2021-06-06T09:36:11.500	2021-06-06T09:36:18.396
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Belly"":true}"					000179ad8d--60bc9714250bd33fac933ece	000179ad8d--60bc7d723c003231386e581a	43a31cf952da9cc7c79a3ad9e465e498	2021-06-06T09:36:20.090	2021-06-06T09:36:45.440
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Vent"":true}"					000179ad8d--60bc972edf8878157e747385	000179ad8d--60bc7d723c003231386e581e	43a31cf952da9cc7c79a3ad9e465e498	2021-06-06T09:36:46.355	2021-06-06T09:37:02.257
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Belly"":true}"					000179ad8d--60bc973f0baf93026adc30fb	000179ad8d--60bc7d723c003231386e5824	43a31cf952da9cc7c79a3ad9e465e498	2021-06-06T09:37:03.628	2021-06-06T09:37:13.928
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Tibia"":true}"					000179ad8d--60bc974ae5851e2a55d2adaa	000179ad8d--60bc7d723c003231386e5821	43a31cf952da9cc7c79a3ad9e465e498	2021-06-06T09:37:14.858	2021-06-06T09:37:23.030
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Vent"":true}"					000179ad8d--60bc9755a2e4442f8534d4a6	000179ad8d--60bc7d723c003231386e581d	43a31cf952da9cc7c79a3ad9e465e498	2021-06-06T09:37:25.060	2021-06-06T09:37:36.757
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Scapulars"":true}"					000179ad8d--60bc9762319fec5a35f5c922	000179ad8d--60bc7d723c003231386e5826	43a31cf952da9cc7c79a3ad9e465e498	2021-06-06T09:37:38.082	2021-06-06T09:38:08.624
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Belly"":true}"					000179ad8d--60bc9781f33865758e93d7f6	000179ad8d--60bc7d723c003231386e5825	43a31cf952da9cc7c79a3ad9e465e498	2021-06-06T09:38:09.688	2021-06-06T09:38:18.960
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Iris"":true}"					000179ad8d--60bc978c99211a6cb39c7baa	000179ad8d--60bc7d723c003231386e581b	43a31cf952da9cc7c79a3ad9e465e498	2021-06-06T09:38:20.267	2021-06-06T09:38:30.301
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Head"":true,""Eyestripe"":true,""Feet"":true}"					000179ad8d--60bc9e595bc69d78462df23b	000179ad8d--60bc7d723c003231386e581f	a3027de9a057de607bf5845dc6a772f5	2021-06-06T10:07:21.495	2021-06-06T10:08:28.671
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Mantle"":true}"					000179ad8d--60bca23ae5851e2a55d35fff	000179ad8d--60bc7d723c003231386e581a	78466778048c1fe10bcbc959893c8b1a	2021-06-06T10:23:54.838	2021-06-06T10:24:09.873
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Head"":true}"					000179ad8d--60bca24c0baf93026adcd63b	000179ad8d--60bc7d723c003231386e5825	78466778048c1fe10bcbc959893c8b1a	2021-06-06T10:24:12.437	2021-06-06T10:24:35.214
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Pupil"":true}"					000179ad8d--60bca265be2bd36caad764d0	000179ad8d--60bc7d723c003231386e5822	78466778048c1fe10bcbc959893c8b1a	2021-06-06T10:24:37.073	2021-06-06T10:24:46.298
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Beak"":true,""Iris"":true}"					000179ad8d--60bca2708a92a13359c4aa37	000179ad8d--60bc7d723c003231386e5826	78466778048c1fe10bcbc959893c8b1a	2021-06-06T10:24:48.484	2021-06-06T10:25:03.803
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png	дщд	"{""Head"":true}"					000179ad8d--60bca2f11909760f1d857833	000179ad8d--60bc7d723c003231386e5825	6c1d2e004ee0438ff3475ce36fd33ae8	2021-06-06T10:26:57.215	2021-06-06T10:27:08.251
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png	"qq
+"	"{""Breast"":true}"					000179ad8d--60bca2fc19d71055feed4e6e	000179ad8d--60bc7d723c003231386e581f	6c1d2e004ee0438ff3475ce36fd33ae8	2021-06-06T10:27:08.997	2021-06-06T10:27:15.143
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png	o	"{""Tibio-tarsal articulation"":true}"					000179ad8d--60bca304250bd33fac93fa9a	000179ad8d--60bc7d723c003231386e5822	6c1d2e004ee0438ff3475ce36fd33ae8	2021-06-06T10:27:16.365	2021-06-06T10:27:20.654
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png	o	"{""Vent"":true}"					000179ad8d--60bca30a4f73891cd4fea0a4	000179ad8d--60bc7d723c003231386e581c	6c1d2e004ee0438ff3475ce36fd33ae8	2021-06-06T10:27:22.446	2021-06-06T10:27:25.671
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png	ok	"{""Belly"":true}"					000179ad8d--60bca30fabe5724111e53fe6	000179ad8d--60bc7d723c003231386e5823	6c1d2e004ee0438ff3475ce36fd33ae8	2021-06-06T10:27:27.748	2021-06-06T10:27:31.086
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png	good nice	"{""Rump"":true}"					000179ad8d--60bca3140b590b3e2f9eef1e	000179ad8d--60bc7d723c003231386e581b	6c1d2e004ee0438ff3475ce36fd33ae8	2021-06-06T10:27:32.744	2021-06-06T10:27:38.932
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png	show	"{""Lesser Coverts"":true}"					000179ad8d--60bca31c78248827a6fb5ea4	000179ad8d--60bc7d723c003231386e581e	6c1d2e004ee0438ff3475ce36fd33ae8	2021-06-06T10:27:40.675	2021-06-06T10:27:44.498
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png	bird qq	"{""Eyestripe"":true}"					000179ad8d--60bca32183d01a0997c741e9	000179ad8d--60bc7d723c003231386e5828	6c1d2e004ee0438ff3475ce36fd33ae8	2021-06-06T10:27:45.633	2021-06-06T10:27:51.152
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png	EGOR LETOV	"{""Tarsus"":true}"					000179ad8d--60bca3274dc48f273e38a7d8	000179ad8d--60bc7d723c003231386e581a	6c1d2e004ee0438ff3475ce36fd33ae8	2021-06-06T10:27:51.950	2021-06-06T10:28:00.737
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png	VIKTOR TSOI	"{""Breast"":true}"					000179ad8d--60bca331319fec5a35f688e2	000179ad8d--60bc7d723c003231386e5824	6c1d2e004ee0438ff3475ce36fd33ae8	2021-06-06T10:28:01.960	2021-06-06T10:28:08.544
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png	"PUTIN
+"	"{""Rump"":true}"					000179ad8d--60bca33999211a6cb39d4f50	000179ad8d--60bc7d723c003231386e5827	6c1d2e004ee0438ff3475ce36fd33ae8	2021-06-06T10:28:09.827	2021-06-06T10:28:14.372
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png	SUNBOY	"{""Lesser Coverts"":true}"					000179ad8d--60bca340f0deff310ab337fe	000179ad8d--60bc7d723c003231386e581d	6c1d2e004ee0438ff3475ce36fd33ae8	2021-06-06T10:28:16.386	2021-06-06T10:28:22.089
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png	SONG EMINEMS	"{""Flanks"":true}"					000179ad8d--60bca3487afbc056f690b909	000179ad8d--60bc7d723c003231386e5826	6c1d2e004ee0438ff3475ce36fd33ae8	2021-06-06T10:28:24.065	2021-06-06T10:28:33.059
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png	DWANE	"{""Wattle"":true}"					000179ad8d--60bca3517afbc056f690b984	000179ad8d--60bc7d723c003231386e5820	6c1d2e004ee0438ff3475ce36fd33ae8	2021-06-06T10:28:33.819	2021-06-06T10:28:40.228
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png	CONVERT	"{""Coverts"":true}"					000179ad8d--60bca359c317463775dfead3	000179ad8d--60bc7d723c003231386e5821	6c1d2e004ee0438ff3475ce36fd33ae8	2021-06-06T10:28:41.386	2021-06-06T10:29:02.025
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Beak"":true}"					000179ad8d--60bca908f220db21bc1af2c4	000179ad8d--60bc7d723c003231386e5825	0d62d89775a9ed97e5a991e9fc9ab3e7	2021-06-06T10:52:56.612	2021-06-06T10:53:22.503
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Beak"":true}"					000179ad8d--60bca923c317463775e03e51	000179ad8d--60bc7d723c003231386e5822	0d62d89775a9ed97e5a991e9fc9ab3e7	2021-06-06T10:53:23.764	2021-06-06T10:53:34.961
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Beak"":true}"					000179ad8d--60bca92f7afbc056f6910777	000179ad8d--60bc7d723c003231386e581f	0d62d89775a9ed97e5a991e9fc9ab3e7	2021-06-06T10:53:35.781	2021-06-06T10:53:40.467
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Beak"":true}"					000179ad8d--60bca9351909760f1d85cec4	000179ad8d--60bc7d723c003231386e581d	0d62d89775a9ed97e5a991e9fc9ab3e7	2021-06-06T10:53:41.551	2021-06-06T10:53:46.104
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Beak"":true}"					000179ad8d--60bca93b90429542be3da5f0	000179ad8d--60bc7d723c003231386e5821	0d62d89775a9ed97e5a991e9fc9ab3e7	2021-06-06T10:53:47.483	2021-06-06T10:53:54.160
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Beak"":true}"					000179ad8d--60bca94390429542be3da645	000179ad8d--60bc7d723c003231386e581c	0d62d89775a9ed97e5a991e9fc9ab3e7	2021-06-06T10:53:55.512	2021-06-06T10:54:02.009
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Beak"":true}"					000179ad8d--60bca94bf0deff310ab3c0ce	000179ad8d--60bc7d723c003231386e5820	0d62d89775a9ed97e5a991e9fc9ab3e7	2021-06-06T10:54:03.127	2021-06-06T10:54:08.903
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Beak"":true}"					000179ad8d--60bca9521909760f1d85d071	000179ad8d--60bc7d723c003231386e5826	0d62d89775a9ed97e5a991e9fc9ab3e7	2021-06-06T10:54:10.153	2021-06-06T10:54:14.624
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Beak"":true}"					000179ad8d--60bca958f0deff310ab3c230	000179ad8d--60bc7d723c003231386e5824	0d62d89775a9ed97e5a991e9fc9ab3e7	2021-06-06T10:54:16.390	2021-06-06T10:54:22.491
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Beak"":true}"					000179ad8d--60bca95f1e381301d7ad0ce6	000179ad8d--60bc7d723c003231386e5827	0d62d89775a9ed97e5a991e9fc9ab3e7	2021-06-06T10:54:23.914	2021-06-06T10:54:30.240
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Beak"":true}"					000179ad8d--60bca968319fec5a35f6dac8	000179ad8d--60bc7d723c003231386e5823	0d62d89775a9ed97e5a991e9fc9ab3e7	2021-06-06T10:54:32.635	2021-06-06T10:54:38.140
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Beak"":true}"					000179ad8d--60bca96f90429542be3da86b	000179ad8d--60bc7d723c003231386e581e	0d62d89775a9ed97e5a991e9fc9ab3e7	2021-06-06T10:54:39.479	2021-06-06T10:54:44.262
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Beak"":true,""Head"":true}"					000179ad8d--60bca975250bd33fac9451e8	000179ad8d--60bc7d723c003231386e581a	0d62d89775a9ed97e5a991e9fc9ab3e7	2021-06-06T10:54:45.333	2021-06-06T10:54:50.818
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Beak"":true}"					000179ad8d--60bca97ddf8878157e758a7c	000179ad8d--60bc7d723c003231386e5828	0d62d89775a9ed97e5a991e9fc9ab3e7	2021-06-06T10:54:53.120	2021-06-06T10:54:56.695
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Beak"":true}"					000179ad8d--60bca982be2bd36caad7e458	000179ad8d--60bc7d723c003231386e581b	0d62d89775a9ed97e5a991e9fc9ab3e7	2021-06-06T10:54:58.889	2021-06-06T10:55:04.158
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Head"":true,""Beak"":true}"					000179ad8d--60bcadcb0b590b3e2f9f968c	000179ad8d--60bc7d723c003231386e5822	1444a73a1eb1fce8f60db43c49d580bf	2021-06-06T11:13:15.491	2021-06-06T11:14:02.239
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Head"":true,""Beak"":true}"					000179ad8d--60bcadfc19d71055feedefe4	000179ad8d--60bc7d723c003231386e5826	1444a73a1eb1fce8f60db43c49d580bf	2021-06-06T11:14:04.309	2021-06-06T11:14:15.528
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Beak"":true,""Head"":true,""Iris"":true}"					000179ad8d--60bcae0868183b5da8588b78	000179ad8d--60bc7d723c003231386e581f	1444a73a1eb1fce8f60db43c49d580bf	2021-06-06T11:14:16.591	2021-06-06T11:14:26.238
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Tertials"":true,""Coverts"":true,""Iris"":true}"					000179ad8d--60bcae13250bd33fac94915b	000179ad8d--60bc7d723c003231386e581c	1444a73a1eb1fce8f60db43c49d580bf	2021-06-06T11:14:27.281	2021-06-06T11:14:32.662
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Beak"":true,""Iris"":true,""Mantle"":true}"					000179ad8d--60bcae193c6ca8596db22f03	000179ad8d--60bc7d723c003231386e5823	1444a73a1eb1fce8f60db43c49d580bf	2021-06-06T11:14:33.356	2021-06-06T11:14:37.589
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Iris"":true,""Beak"":true,""Lesser Coverts"":true}"					000179ad8d--60bcae1e1909760f1d861388	000179ad8d--60bc7d723c003231386e5828	1444a73a1eb1fce8f60db43c49d580bf	2021-06-06T11:14:38.427	2021-06-06T11:14:43.016
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Head"":true}"					000179ad8d--60bcae2490429542be3df52b	000179ad8d--60bc7d723c003231386e5825	1444a73a1eb1fce8f60db43c49d580bf	2021-06-06T11:14:44.235	2021-06-06T11:14:48.271
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Scapulars"":true,""Head"":true}"					000179ad8d--60bcae297c5cbc71410aaf88	000179ad8d--60bc7d723c003231386e581e	1444a73a1eb1fce8f60db43c49d580bf	2021-06-06T11:14:49.195	2021-06-06T11:14:54.213
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Beak"":true,""Head"":true}"					000179ad8d--60bcae307afbc056f6914903	000179ad8d--60bc7d723c003231386e581a	1444a73a1eb1fce8f60db43c49d580bf	2021-06-06T11:14:56.352	2021-06-06T11:15:06.771
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Pupil"":true,""Head"":true}"					000179ad8d--60bcae3b4dc48f273e3932eb	000179ad8d--60bc7d723c003231386e5824	1444a73a1eb1fce8f60db43c49d580bf	2021-06-06T11:15:07.487	2021-06-06T11:15:12.087
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Head"":true,""Iris"":true}"					000179ad8d--60bcae41f0deff310ab40188	000179ad8d--60bc7d723c003231386e581d	1444a73a1eb1fce8f60db43c49d580bf	2021-06-06T11:15:13.870	2021-06-06T11:15:18.580
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Head"":true,""Iris"":true}"					000179ad8d--60bcae477afbc056f6914a7a	000179ad8d--60bc7d723c003231386e5820	1444a73a1eb1fce8f60db43c49d580bf	2021-06-06T11:15:19.255	2021-06-06T11:15:22.084
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Beak"":true,""Head"":true,""Iris"":true}"					000179ad8d--60bcae4b4f73891cd4ff34f7	000179ad8d--60bc7d723c003231386e5821	1444a73a1eb1fce8f60db43c49d580bf	2021-06-06T11:15:23.246	2021-06-06T11:15:26.312
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Head"":true}"					000179ad8d--60bcae4f1909760f1d8615e7	000179ad8d--60bc7d723c003231386e5827	1444a73a1eb1fce8f60db43c49d580bf	2021-06-06T11:15:27.377	2021-06-06T11:15:30.575
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Primaries"":true,""Head"":true}"					000179ad8d--60bcae541e5629033020c4a1	000179ad8d--60bc7d723c003231386e581b	1444a73a1eb1fce8f60db43c49d580bf	2021-06-06T11:15:32.520	2021-06-06T11:15:37.763
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Tertials"":true}"					000179ad8d--60bcbf4b78248827a6fe14c6	000179ad8d--60bc7d723c003231386e5820	53aea2a3656c892e387cf3885ad1b13d	2021-06-06T12:27:55.675	2021-06-06T12:28:08.332
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Beak"":true}"					000179ad8d--60bcbf5a78248827a6fe162b	000179ad8d--60bc7d723c003231386e5822	53aea2a3656c892e387cf3885ad1b13d	2021-06-06T12:28:10.148	2021-06-06T12:28:18.422
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Beak"":true}"					000179ad8d--60bcbf647c5cbc71410b9d37	000179ad8d--60bc7d723c003231386e5825	53aea2a3656c892e387cf3885ad1b13d	2021-06-06T12:28:20.254	2021-06-06T12:28:35.962
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Beak"":true}"					000179ad8d--60bcbf75e5851e2a55d5852e	000179ad8d--60bc7d723c003231386e5821	53aea2a3656c892e387cf3885ad1b13d	2021-06-06T12:28:37.203	2021-06-06T12:28:49.212
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Beak"":true}"					000179ad8d--60bcbf8156e0ec582ad02aef	000179ad8d--60bc7d723c003231386e581f	53aea2a3656c892e387cf3885ad1b13d	2021-06-06T12:28:49.856	2021-06-06T12:28:54.572
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Beak"":true}"					000179ad8d--60bcbf881e5629033021d6e8	000179ad8d--60bc7d723c003231386e581c	53aea2a3656c892e387cf3885ad1b13d	2021-06-06T12:28:56.668	2021-06-06T12:29:00.122
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Beak"":true}"					000179ad8d--60bcbf8d5bc69d78462fbf8d	000179ad8d--60bc7d723c003231386e5823	53aea2a3656c892e387cf3885ad1b13d	2021-06-06T12:29:01.138	2021-06-06T12:29:04.293
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Beak"":true}"					000179ad8d--60bcbf91250bd33fac958213	000179ad8d--60bc7d723c003231386e581e	53aea2a3656c892e387cf3885ad1b13d	2021-06-06T12:29:05.576	2021-06-06T12:29:12.468
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Beak"":true}"					000179ad8d--60bcbf992cf798441d177a80	000179ad8d--60bc7d723c003231386e581a	53aea2a3656c892e387cf3885ad1b13d	2021-06-06T12:29:13.493	2021-06-06T12:29:18.754
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Beak"":true}"					000179ad8d--60bcbfa068183b5da85998bf	000179ad8d--60bc7d723c003231386e5824	53aea2a3656c892e387cf3885ad1b13d	2021-06-06T12:29:20.918	2021-06-06T12:29:24.052
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Beak"":true}"					000179ad8d--60bcbfa578248827a6fe1dd9	000179ad8d--60bc7d723c003231386e581d	53aea2a3656c892e387cf3885ad1b13d	2021-06-06T12:29:25.263	2021-06-06T12:29:28.977
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Beak"":true}"					000179ad8d--60bcbfa98a92a13359c725ce	000179ad8d--60bc7d723c003231386e5826	53aea2a3656c892e387cf3885ad1b13d	2021-06-06T12:29:29.984	2021-06-06T12:29:33.740
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Beak"":true}"					000179ad8d--60bcbfaef0deff310ab53b21	000179ad8d--60bc7d723c003231386e5827	53aea2a3656c892e387cf3885ad1b13d	2021-06-06T12:29:34.588	2021-06-06T12:29:36.968
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Beak"":true}"					000179ad8d--60bcbfb20baf93026adead1a	000179ad8d--60bc7d723c003231386e5828	53aea2a3656c892e387cf3885ad1b13d	2021-06-06T12:29:38.377	2021-06-06T12:29:40.950
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Beak"":true}"					000179ad8d--60bcbfb57afbc056f69267d5	000179ad8d--60bc7d723c003231386e581b	53aea2a3656c892e387cf3885ad1b13d	2021-06-06T12:29:41.574	2021-06-06T12:29:43.703
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Lesser Coverts"":true,""Tibia"":true}"					000179ad8d--60bcc70499211a6cb3a01b05	000179ad8d--60bc7d723c003231386e5822	0479df170fb275c663fab4268d339991	2021-06-06T13:00:52.035	2021-06-06T13:01:02.053
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Feet"":true}"					000179ad8d--60bcc70f19d71055feef9b27	000179ad8d--60bc7d723c003231386e5826	0479df170fb275c663fab4268d339991	2021-06-06T13:01:03.206	2021-06-06T13:01:08.400
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Primaries"":true}"					000179ad8d--60bcc71683d01a0997c96c8b	000179ad8d--60bc7d723c003231386e5828	0479df170fb275c663fab4268d339991	2021-06-06T13:01:10.186	2021-06-06T13:01:13.773
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Rump"":true}"					000179ad8d--60bcc71a1909760f1d87661a	000179ad8d--60bc7d723c003231386e5825	0479df170fb275c663fab4268d339991	2021-06-06T13:01:14.749	2021-06-06T13:01:16.438
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Rump"":true}"					000179ad8d--60bcc71d19d71055feef9b9c	000179ad8d--60bc7d723c003231386e581f	0479df170fb275c663fab4268d339991	2021-06-06T13:01:17.458	2021-06-06T13:01:19.546
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Tertials"":true}"					000179ad8d--60bcc721c2e3f602529af0df	000179ad8d--60bc7d723c003231386e5827	0479df170fb275c663fab4268d339991	2021-06-06T13:01:21.540	2021-06-06T13:01:23.817
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Iris"":true}"					000179ad8d--60bcc724df8878157e7753ca	000179ad8d--60bc7d723c003231386e581d	0479df170fb275c663fab4268d339991	2021-06-06T13:01:24.962	2021-06-06T13:01:37.459
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Belly"":true}"					000179ad8d--60bcc73399211a6cb3a01d2b	000179ad8d--60bc7d723c003231386e581c	0479df170fb275c663fab4268d339991	2021-06-06T13:01:39.049	2021-06-06T13:01:42.952
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Tarsus"":true}"					000179ad8d--60bcc7377c5cbc71410bf5f8	000179ad8d--60bc7d723c003231386e5823	0479df170fb275c663fab4268d339991	2021-06-06T13:01:43.688	2021-06-06T13:01:45.559
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Tibio-tarsal articulation"":true}"					000179ad8d--60bcc742df8878157e77551e	000179ad8d--60bc7d723c003231386e581e	0479df170fb275c663fab4268d339991	2021-06-06T13:01:54.214	2021-06-06T13:01:55.532
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Thigh"":true}"					000179ad8d--60bcc744cd58ba6b3e3ea3e8	000179ad8d--60bc7d723c003231386e581b	0479df170fb275c663fab4268d339991	2021-06-06T13:01:56.541	2021-06-06T13:01:58.976
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Vent"":true}"					000179ad8d--60bcc74719d71055feef9d9e	000179ad8d--60bc7d723c003231386e581a	0479df170fb275c663fab4268d339991	2021-06-06T13:01:59.788	2021-06-06T13:02:02.352
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Thigh"":true}"					000179ad8d--60bcc74cdf8878157e7755bc	000179ad8d--60bc7d723c003231386e5824	0479df170fb275c663fab4268d339991	2021-06-06T13:02:04.802	2021-06-06T13:02:06.663
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Tibio-tarsal articulation"":true}"					000179ad8d--60bcc74fabe5724111e799f9	000179ad8d--60bc7d723c003231386e5820	0479df170fb275c663fab4268d339991	2021-06-06T13:02:07.782	2021-06-06T13:02:09.470
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Tarsus"":true}"					000179ad8d--60bcc7521e381301d7aef288	000179ad8d--60bc7d723c003231386e5821	0479df170fb275c663fab4268d339991	2021-06-06T13:02:10.781	2021-06-06T13:02:14.161
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_17.png		"{""Beak"":true}"					000179ad8d--60bcca8b56e0ec582ad0b575	000179ad8d--60bc7d723c003231386e581f	361a9374283428b5e9b42059bc3dc069	2021-06-06T13:15:55.569	2021-06-06T13:16:02.381
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Beak"":true}"					000179ad8d--60bcca93250bd33fac960619	000179ad8d--60bc7d723c003231386e5826	361a9374283428b5e9b42059bc3dc069	2021-06-06T13:16:03.685	2021-06-06T13:16:06.073
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Beak"":true}"					000179ad8d--60bcca96df8878157e777dcf	000179ad8d--60bc7d723c003231386e5824	361a9374283428b5e9b42059bc3dc069	2021-06-06T13:16:06.985	2021-06-06T13:16:10.147
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Mantle"":true}"					000179ad8d--60bcca9bf440ea68588e9b73	000179ad8d--60bc7d723c003231386e581c	361a9374283428b5e9b42059bc3dc069	2021-06-06T13:16:11.570	2021-06-06T13:16:14.159
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Mantle"":true}"					000179ad8d--60bcca9f250bd33fac96068e	000179ad8d--60bc7d723c003231386e5823	361a9374283428b5e9b42059bc3dc069	2021-06-06T13:16:15.509	2021-06-06T13:16:18.072
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Mantle"":true}"					000179ad8d--60bccaa3abe5724111e7be5a	000179ad8d--60bc7d723c003231386e5821	361a9374283428b5e9b42059bc3dc069	2021-06-06T13:16:19.235	2021-06-06T13:16:21.106
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Mantle"":true}"					000179ad8d--60bccaa67afbc056f692e876	000179ad8d--60bc7d723c003231386e581d	361a9374283428b5e9b42059bc3dc069	2021-06-06T13:16:22.111	2021-06-06T13:16:24.511
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Mantle"":true}"					000179ad8d--60bccaa968183b5da85a2e00	000179ad8d--60bc7d723c003231386e581e	361a9374283428b5e9b42059bc3dc069	2021-06-06T13:16:25.843	2021-06-06T13:16:28.086
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Mantle"":true}"					000179ad8d--60bccaad0b590b3e2fa163cd	000179ad8d--60bc7d723c003231386e5828	361a9374283428b5e9b42059bc3dc069	2021-06-06T13:16:29.201	2021-06-06T13:16:33.339
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Mantle"":true}"					000179ad8d--60bccab2f440ea68588e9cbe	000179ad8d--60bc7d723c003231386e581a	361a9374283428b5e9b42059bc3dc069	2021-06-06T13:16:34.720	2021-06-06T13:16:37.726
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Mantle"":true}"					000179ad8d--60bccab662f2586508ce9e52	000179ad8d--60bc7d723c003231386e581b	361a9374283428b5e9b42059bc3dc069	2021-06-06T13:16:38.816	2021-06-06T13:16:40.908
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Lesser Coverts"":true}"					000179ad8d--60bccabacd58ba6b3e3ed12f	000179ad8d--60bc7d723c003231386e5825	361a9374283428b5e9b42059bc3dc069	2021-06-06T13:16:42.213	2021-06-06T13:16:45.401
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Beak"":true}"					000179ad8d--60bccabe99211a6cb3a04fd2	000179ad8d--60bc7d723c003231386e5827	361a9374283428b5e9b42059bc3dc069	2021-06-06T13:16:46.804	2021-06-06T13:18:11.035
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_30.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_30.png		"{""Tarsus"":true,""Mantle"":true,""Beak"":true,""Head"":true,""Iris"":true,""Pupil"":true,""Lesser Coverts"":true,""Coverts"":true,""Thigh"":true,""Rump"":true,""Primaries"":true,""Vent"":true,""Tibia"":true,""Feet"":true,""Belly"":true,""Flanks"":true,""Eyestripe"":true}"					000179ad8d--60bccd0699211a6cb3a0785e	000179ad8d--60bc7d723c003231386e5822	291364989e32aaa7571603700136c80d	2021-06-06T13:26:30.201	2021-06-06T13:26:51.618
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png		"{""Head"":true,""Lesser Coverts"":true,""Pupil"":true,""Mantle"":true,""Coverts"":true,""Eyestripe"":true,""Belly"":true,""Feet"":true,""Tarsus"":true,""Thigh"":true,""Vent"":true,""Rump"":true,""Breast"":true,""Wattle"":true}"					000179ad8d--60bccd1c68183b5da85a4c9c	000179ad8d--60bc7d723c003231386e581c	291364989e32aaa7571603700136c80d	2021-06-06T13:26:52.961	2021-06-06T13:27:10.012
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png		"{""Pupil"":true,""Rump"":true,""Primaries"":true,""Tarsus"":true,""Breast"":true,""Eyestripe"":true,""Belly"":true,""Tibia"":true,""Tertials"":true,""Coverts"":true,""Scapulars"":true,""Iris"":true,""Head"":true}"					000179ad8d--60bccd2ef0deff310ab6182e	000179ad8d--60bc7d723c003231386e5823	291364989e32aaa7571603700136c80d	2021-06-06T13:27:10.823	2021-06-06T13:27:22.454
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png		"{""Tertials"":true,""Feet"":true,""Breast"":true,""Wattle"":true,""Tibio-tarsal articulation"":true,""Primaries"":true,""Beak"":true,""Scapulars"":true,""Mantle"":true,""Pupil"":true,""Head"":true,""Lesser Coverts"":true}"					000179ad8d--60bccd3b0baf93026adf6719	000179ad8d--60bc7d723c003231386e5824	291364989e32aaa7571603700136c80d	2021-06-06T13:27:23.540	2021-06-06T13:27:41.578
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_23.png		"{""Beak"":true,""Tibio-tarsal articulation"":true,""Lesser Coverts"":true,""Pupil"":true,""Tertials"":true,""Flanks"":true,""Wattle"":true,""Tarsus"":true,""Eyestripe"":true,""Primaries"":true,""Coverts"":true,""Vent"":true}"					000179ad8d--60bccd4ef0deff310ab621b2	000179ad8d--60bc7d723c003231386e5825	291364989e32aaa7571603700136c80d	2021-06-06T13:27:42.302	2021-06-06T13:27:59.131
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Iris"":true,""Mantle"":true,""Rump"":true,""Breast"":true,""Tarsus"":true,""Tibia"":true,""Primaries"":true,""Lesser Coverts"":true,""Coverts"":true}"					000179ad8d--60bccd604f73891cd400e13c	000179ad8d--60bc7d723c003231386e581d	291364989e32aaa7571603700136c80d	2021-06-06T13:28:00.629	2021-06-06T13:28:10.456
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png		"{""Head"":true,""Tertials"":true,""Thigh"":true,""Feet"":true,""Flanks"":true,""Belly"":true,""Tibio-tarsal articulation"":true,""Rump"":true,""Iris"":true,""Mantle"":true,""Scapulars"":true,""Throat"":true}"					000179ad8d--60bccd6b83d01a0997c9cf18	000179ad8d--60bc7d723c003231386e581e	291364989e32aaa7571603700136c80d	2021-06-06T13:28:11.961	2021-06-06T13:28:24.059
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_0_17.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_0_17.png		"{""Mantle"":true,""Primaries"":true,""Tarsus"":true,""Tertials"":true,""Tibio-tarsal articulation"":true,""Flanks"":true,""Belly"":true,""Throat"":true,""Eyestripe"":true}"					000179ad8d--60bccd783c6ca8596db444aa	000179ad8d--60bc7d723c003231386e581a	291364989e32aaa7571603700136c80d	2021-06-06T13:28:24.896	2021-06-06T13:28:37.902
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Iris"":true,""Beak"":true,""Vent"":true,""Primaries"":true,""Coverts"":true,""Tertials"":true,""Tibia"":true,""Throat"":true}"					000179ad8d--60bccd87f33865758e96ffb5	000179ad8d--60bc7d723c003231386e5820	291364989e32aaa7571603700136c80d	2021-06-06T13:28:39.163	2021-06-06T13:28:46.557
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Pupil"":true,""Tibia"":true,""Thigh"":true,""Primaries"":true,""Coverts"":true,""Scapulars"":true,""Mantle"":true,""Head"":true,""Iris"":true,""Breast"":true,""Flanks"":true}"					000179ad8d--60bccd907afbc056f693083b	000179ad8d--60bc7d723c003231386e5827	291364989e32aaa7571603700136c80d	2021-06-06T13:28:48.587	2021-06-06T13:29:01.205
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_26.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_26.png		"{""Iris"":true,""Tertials"":true,""Tibio-tarsal articulation"":true,""Tibia"":true,""Throat"":true,""Flanks"":true,""Tarsus"":true,""Primaries"":true,""Coverts"":true,""Lesser Coverts"":true}"					000179ad8d--60bccd9ec2e3f602529b4bbc	000179ad8d--60bc7d723c003231386e5826	291364989e32aaa7571603700136c80d	2021-06-06T13:29:02.258	2021-06-06T13:29:11.531
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Mantle"":true,""Rump"":true,""Tibio-tarsal articulation"":true,""Breast"":true,""Tibia"":true,""Feet"":true,""Primaries"":true,""Vent"":true,""Scapulars"":true,""Pupil"":true,""Head"":true}"					000179ad8d--60bccda8f440ea68588ebb81	000179ad8d--60bc7d723c003231386e5828	291364989e32aaa7571603700136c80d	2021-06-06T13:29:12.863	2021-06-06T13:29:22.284
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png		"{""Pupil"":true,""Belly"":true,""Vent"":true,""Feet"":true,""Coverts"":true,""Scapulars"":true,""Mantle"":true,""Throat"":true,""Breast"":true,""Beak"":true}"					000179ad8d--60bccdb31909760f1d87b5de	000179ad8d--60bc7d723c003231386e5821	291364989e32aaa7571603700136c80d	2021-06-06T13:29:23.192	2021-06-06T13:29:33.568
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Mantle"":true,""Vent"":true,""Flanks"":true,""Tertials"":true,""Coverts"":true,""Feet"":true,""Throat"":true,""Tarsus"":true,""Tibia"":true}"					000179ad8d--60bccdbf319fec5a35f95af4	000179ad8d--60bc7d723c003231386e581b	291364989e32aaa7571603700136c80d	2021-06-06T13:29:35.723	2021-06-06T13:29:48.575
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_6.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_6.png	focus	"{""Beak"":true}"					000179ad8d--60bcd02b2cf798441d184002	000179ad8d--60bc7d723c003231386e5823	0fa81c631c7ddf6866d0e74b445def47	2021-06-06T13:39:55.319	2021-06-06T13:40:28.444
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_14.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_14.png	focus	"{""Beak"":true}"					000179ad8d--60bcd04d78248827a6fef8f3	000179ad8d--60bc7d723c003231386e581c	0fa81c631c7ddf6866d0e74b445def47	2021-06-06T13:40:29.749	2021-06-06T13:40:45.439
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_3.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_3.png	focus	"{""Iris"":true}"					000179ad8d--60bcd05f319fec5a35f98184	000179ad8d--60bc7d723c003231386e581e	0fa81c631c7ddf6866d0e74b445def47	2021-06-06T13:40:47.319	2021-06-06T13:40:55.841
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_23.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_23.png	focus	"{""Coverts"":true}"					000179ad8d--60bcd0683c6ca8596db46ce8	000179ad8d--60bc7d723c003231386e5821	0fa81c631c7ddf6866d0e74b445def47	2021-06-06T13:40:56.702	2021-06-06T13:41:05.863
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_3_1.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_3_1.png	focus	"{""Coverts"":true}"					000179ad8d--60bcd07356e0ec582ad0f97e	000179ad8d--60bc7d723c003231386e5824	0fa81c631c7ddf6866d0e74b445def47	2021-06-06T13:41:07.932	2021-06-06T13:41:13.236
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_18.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_18.png		"{""Head"":true}"					000179ad8d--60bcd2624f73891cd4011aff	000179ad8d--60bc7d723c003231386e581d	f790f43ab08af4e540c0dda672d54db8	2021-06-06T13:49:22.236	2021-06-06T13:50:03.077
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_1_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_1_10.png		"{""Breast"":true}"					000179ad8d--60bcd28cf0deff310ab675ff	000179ad8d--60bc7d723c003231386e581b	f790f43ab08af4e540c0dda672d54db8	2021-06-06T13:50:04.525	2021-06-06T13:50:23.793
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_2_22.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_2_22.png		"{""Beak"":true,""Head"":true,""Belly"":true,""Eyestripe"":true,""Throat"":true,""Rump"":true,""Feet"":true}"					000179ad8d--60bcd2fd5bc69d7846309a1e	000179ad8d--60bc7d723c003231386e5820	5b2ffea78fc74c70af96b498ecc8f01d	2021-06-06T13:51:57.455	2021-06-06T13:54:29.035
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_10.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_10.png		"{""Beak"":true}"					000179ad8d--60bce0bcc317463775e37687	000179ad8d--60bc7d723c003231386e5827	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:50:36.725	2021-06-06T14:51:12.767
+												
+/pilot/GilaWoodpecker/original_gila_woodpecker_batch_4_4.png	/pilot/GilaWoodpecker/gila_woodpecker_batch_4_4.png		"{""Pupil"":true}"					000179ad8d--60bce0e2f220db21bc1e06f4	000179ad8d--60bc7d723c003231386e5828	a785f1cfaa4dd30ac8b0b195d61bfbe2	2021-06-06T14:51:14.704	2021-06-06T14:51:43.920
+												

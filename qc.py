@@ -1,8 +1,9 @@
+import itertools
+import math
 import unicodedata
 
 import crowdtruth
 from crowdtruth.configuration import DefaultConfig
-import pandas as pd
 import json
 
 import json
@@ -78,6 +79,7 @@ def free_text(df, annotations_dict, col):
         img = row['INPUT:image_left']
         if jsns and str(jsns).lower() != 'nan':
             jsn = json.loads(jsns)
+            print(jsn)
             for a, bl in jsn.items():
                 try:
                     ann = unicodedata.normalize('NFD', a).lower()
@@ -123,6 +125,10 @@ def process2(x):
 
 
 def custom_translate(x):
+    while x[0] == ' ':
+        x = x[1:]
+    while x[-1] == ' ':
+        x = x[:-1]
     try:
         x = GoogleTranslator(source='ru', target='en').translate(x)
     except Exception as e:
@@ -130,45 +136,54 @@ def custom_translate(x):
     return x
 
 
-def helper(tsv_file):
+def helper(tsv_file, tp):
     csv_table = pd.read_table(tsv_file, sep='\t')
     csv_table = csv_table.drop(columns=['INPUT:image_left', 'HINT:text',
                                         'HINT:default_language'])
     csv_table = csv_table.rename(columns={"OUTPUT:path": "OUTPUT:result"})
     csv_table = csv_table[csv_table['INPUT:image_right'].notna()]
+    df_new = None
 
     # 1st version tsv - free text
     # some pilots have 'annotation' instead of 'label'!
-    csv_table['OUTPUT:result'] = csv_table['OUTPUT:result'].apply(lambda x: [json.loads(x)['label'] if 'label' in json.loads(x) else None for x in str(x).replace('},{', '}@@{').replace('\,', ',').split('@@')])
-    print(csv_table['OUTPUT:result'])
-    csv_table['OUTPUT:result'] = csv_table['OUTPUT:result'].apply(lambda x: ','.join(x) if x[0] else None)
+    if tp == 1:
+        print(str(csv_table['OUTPUT:result'][0]).replace('},{', '}@@{').split('@@'))
+        csv_table['OUTPUT:result'] = csv_table['OUTPUT:result'].apply(
+            lambda x: [json.loads(x)['annotation'] if 'annotation' in json.loads(x) else None for x in
+                       str(x).replace('},{', '}@@{').replace('[', ''). replace(']', '').split('@@')])
+        csv_table['OUTPUT:result'] = csv_table['OUTPUT:result'].apply(lambda x: ','.join([custom_translate(z).lower() for z in x]) if x[0] else pd.NaT)
+        csv_table = csv_table.dropna(subset=['OUTPUT:result'])
+        print(csv_table['OUTPUT:result'])
 
-    # 2nd version tsv - just annotations over comma, free text
-    # print(csv_table['OUTPUT:result'])
-    # csv_table['OUTPUT:result'] = csv_table['OUTPUT:result'].apply(
-    #     lambda x: x.replace('\\', '').replace('"', '').lower().split(', ') if str(x).lower() != 'nan' else None)
-    # csv_table['OUTPUT:result'] = csv_table['OUTPUT:result'].apply(lambda x: [custom_translate(y) for y in x] if x else None)
+        df_new = csv_table
+
+    if tp == 3:
+        print(csv_table['OUTPUT:result'])
+        csv_table['OUTPUT:result'] = csv_table['OUTPUT:result'].apply(
+            lambda x: x.replace('\\', '').replace('"', '').lower().split(', ') if str(x).lower() != 'nan' else None)
+        csv_table['OUTPUT:result'] = csv_table['OUTPUT:result'].apply(lambda x: ','.join([custom_translate(y) for y in x]).replace(', ', ',') if x else None)
+
+        df_new = csv_table
+        print(csv_table['OUTPUT:result'])
 
     # 3rd version tsv - fixed text
-    # print(csv_table['OUTPUT:result'])
-    # df_new = csv_table
-    # print(csv_table['OUTPUT:result'][0])
-    # csv_table['OUTPUT:result'] = csv_table['OUTPUT:result'].apply(lambda x: ','.join(list(json.loads(x).keys())).lower())
-    # print(csv_table['OUTPUT:result'])
+    if tp == 2:
+        print(csv_table['OUTPUT:result'][0])
+        csv_table['OUTPUT:result'] = csv_table['OUTPUT:result'].apply(lambda x: ','.join(list(json.loads(x).keys())).lower())
+        print(csv_table['OUTPUT:result'])
 
-    df_new = csv_table
+        df_new = csv_table
 
-    # post-clean free text annotations
-    # df_new = pd.DataFrame([], columns=csv_table.columns)
-    # for idx, row in csv_table.iterrows():
-    #     all_ann = []
-    #     for ann in row['OUTPUT:result']:
-    #         for sub_ann in ann.split(', '):
-    #             all_ann.append(sub_ann)
-    #     row['OUTPUT:result'] = ','.join(all_ann)
-    #     df_new = df_new.append(row)
+    if tp == 0:
+        print(str(csv_table['OUTPUT:result'][0]).replace('},{', '}@@{').replace('\\', '').split('@@'))
+        csv_table['OUTPUT:result'] = csv_table['OUTPUT:result'].apply(
+            lambda x: [json.loads(x)['label'].split(' & ') if 'label' in json.loads(x) else pd.NaT for x in
+                       str(x).replace('},{', '}@@{').replace('[', '').replace('\\', '').replace(']', '').split('@@')])
+        csv_table = csv_table.dropna(subset=['OUTPUT:result'])
+        csv_table['OUTPUT:result'] = csv_table['OUTPUT:result'].apply(lambda x: ','.join(list(itertools.chain(*x))))
+        print(csv_table['OUTPUT:result'])
 
-    print(df_new['OUTPUT:result'].unique().tolist())
+        df_new = csv_table
 
     df_new['ASSIGNMENT:started'] = pd.to_datetime(csv_table['ASSIGNMENT:started'])
     df_new['ASSIGNMENT:submitted'] = pd.to_datetime(csv_table['ASSIGNMENT:submitted'])
@@ -192,7 +207,7 @@ def helper(tsv_file):
 
 
 def mv(f, tp):
-    df = pd.read_table(f'{f}.tsv', error_bad_lines=False)
+    df = pd.read_table(f'./final/{f}.tsv', error_bad_lines=False)
     try:
         col = 'OUTPUT:path'
         df = df[['OUTPUT:path', 'INPUT:image_left']]
@@ -208,19 +223,21 @@ def mv(f, tp):
         annotations_dict, ann_df = free_text(df, annotations_dict, col)
 
     print(annotations_dict)
-    with open(f'mv_{f}.json', 'w') as outfile:
+    with open(f'./final/mv_{f}.json', 'w') as outfile:
         json.dump(annotations_dict, outfile)
 
 
 def ct(f, tp):
-    res = helper(f'~/pilots/{f}.tsv')
-    res["workers"].sort_values(by=["wqs"], ascending=False).to_csv(f'~/pilots/wq_res_{f}.csv')
-    res["units"]["unit_annotation_score"].to_csv(f'~pilots/res_{f}.csv')
-    with open(f'~/pilots/res_{f}.csv', 'w') as outfile:
-        json.dump(res, outfile)
+    res = helper(f'./pilots/{f}.tsv', tp)
+    res["workers"].sort_values(by=["wqs"], ascending=False).to_csv(f'./pilots/wq_res_{f}.csv')
+    res["units"]["unit_annotation_score"].to_csv(f'./pilots/res_{f}.csv')
 
 
 if __name__ == '__main__':
-    for f, tp in [('final_result1', 'text'), ('final_result2', 'text')]:
+    for f, tp in [('bb_group_003', 0), ('bb_grouped_02', 0), ('bb_text_003', 1),
+                  ('pred_coarse_003', 2), ('pred_fine_003', 2), ('pred_text_003', 3)]:
+        print(f)
         ct(f, tp)
+
+    for f, tp in [('final_result1', 'free'), ('final_result2', 'free')]:
         mv(f, tp)
