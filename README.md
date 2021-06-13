@@ -33,3 +33,13 @@
 - pandas
 - deep_translator
 - CrowdTruth
+
+Our project makes use of CrowdTruth framework
+
+@article{CrowdTruth2,
+  author    = {Anca Dumitrache and Oana Inel and Lora Aroyo and Benjamin Timmermans and Chris Welty},
+  title     = {CrowdTruth 2.0: Quality Metrics for Crowdsourcing with Disagreement},
+  year      = {2018},
+  url       = {https://arxiv.org/abs/1808.06080},
+}
+
